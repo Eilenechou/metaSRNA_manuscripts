@@ -11,7 +11,7 @@ from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
 import pandas as pd
 import Levenshtein
-
+#function to check if seq_1 is a near-substring (tolerating one error) of any seq_2
 #fastq file sequence should only substring of 1152 sequences
 def find_matching_seqs(seq_1,df_csv):
     for seq_2 in df_csv['sequence']:
@@ -20,8 +20,9 @@ def find_matching_seqs(seq_1,df_csv):
                 return True
 
         
-    return False  # No match found
+    return False  #no match found
 
+##function to check if seq_1 is a near-substring (tolerating one error) of any seq_2
 def find_matching_seqs_2(seq_1,dfa):
     for seq_2 in dfa['sequence']:
         if len(seq_2) <= len(seq_1):
@@ -29,23 +30,22 @@ def find_matching_seqs_2(seq_1,dfa):
                 return True
 
         
-    return False  # No match found
-
+    return False  #no match found
 
 
 def main():
     record_dict = SeqIO.to_dict(SeqIO.parse("data/final_seq_12_SRR5234257_4N_A.fasta", "fasta"))
     sequence_list = [str(record.seq) for record in record_dict.values() if 12 <= len(record.seq) <= 90]
     df = pd.DataFrame(sequence_list, columns=["sequence"])
-    # dfb = df["sequence"]
+    #dfb = df["sequence"]
     dfa = df["sequence"].value_counts().reset_index()
     dfa.columns = ["sequence", "count"]
     print("dfa",dfa.head(5))
-    # num_lines = len(dfa)
-    # print(f"The number of sequences is: {num_lines}")
-    # print("original mirdeep2 sequences:\t", dfa)
-    # num_lines = len(dfa)
-    # print(f"The number of sequences is: {num_lines}")
+    #num_lines = len(dfa)
+    #print(f"The number of sequences is: {num_lines}")
+    #print("original mirdeep2 sequences:\t", dfa)
+    #num_lines = len(dfa)
+    #print(f"The number of sequences is: {num_lines}")
 
     df_csv = pd.read_csv("data/1152_paper_sequences.csv", sep="\t")
     df_csv.columns =["sequence","unkown"]
@@ -56,8 +56,8 @@ def main():
     dfa['weighted_match'] = dfa['matched_seqs'].astype(int) * dfa['count']
     df_match_count_all = dfa['weighted_match'].sum()
     
-    # df_matched = dfa[dfa['matched_seqs'].apply(len) > 0].copy()
-    # df_unmatched = dfa[dfa['matched_seqs'].apply(len) == 0].copy()
+    #df_matched = dfa[dfa['matched_seqs'].apply(len) > 0].copy()
+    #df_unmatched = dfa[dfa['matched_seqs'].apply(len) == 0].copy()
     
     count = len(dfa)
     total_count = dfa['count'].sum()
@@ -76,6 +76,27 @@ def main():
     print("mapping percentage",round((df_csv['matched_seqs'].sum() /1152) * 100,2))
     print("not mapping percentage",round(100 - (df_csv['matched_seqs'].sum() /1152) * 100,2))
     
+    #print("mapping percentage",round((len(df_matched) /1152) * 100,2))
+    #print("mapping percentage",round((len(df_matched) /1152) * 100,2))
+    #df_matched.to_csv('data/final_seq_12_SRR6380716_NEBNext_match.csv', sep='\t', index=False)
+    #print(result)
+
+    #not_substring_result = df[~df['is_substring']]
+    #print(not_substring_result)
+    ##not_substring_result = not_substring_result.copy()
+    ##not_substring_result.drop_duplicates(subset=["sequence"], inplace=True)
+    ##print(not_substring_result)
+    #df_unmatched.to_csv('data/final_seq_12_SRR6380716_NEBNext_unmatch.csv', sep='\t', index=False)
+    ##Apply the function to df_1['sequence']
+    #df_csv['total_match'] = df_csv['sequence'].apply(lambda seq: is_near_substring(seq, df_unmatched))
+    #print(df_csv)
+    #total_match_count = df_csv['total_match'].sum()
+    #print("second mapping count",total_match_count)
+    #print("second mapping percentage",round(((total_match_count) /1152) * 100,2))
+    #print(df_csv)
+    #csv_file = "eq_not_map_test5_frequency.csv"  #Replace with your CSV file path
+    #df = pd.read_csv(csv_file,sep="\t")
+    #print(df['sequence'])
 
 if __name__ == "__main__":
     main()
