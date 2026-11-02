@@ -1,0 +1,1459 @@
+SACC_refseqID,name,internal_ID
+NZ_AVEP02000336.1,Pseudomonas avellanae strain CC1416 contig336.1,1
+NZ_AVEP02000335.1,Pseudomonas avellanae strain CC1416 contig335.1,2
+NZ_AVEP02000334.1,Pseudomonas avellanae strain CC1416 contig334.1,3
+NZ_AVEP02000333.1,Pseudomonas avellanae strain CC1416 contig333.1,4
+NZ_AVEP02000332.1,Pseudomonas avellanae strain CC1416 contig332.1,5
+NZ_AVEP02000331.1,Pseudomonas avellanae strain CC1416 contig331.1,6
+NZ_AVEP02000330.1,Pseudomonas avellanae strain CC1416 contig330.1,7
+NZ_AVEP02000329.1,Pseudomonas avellanae strain CC1416 contig329.1,8
+NZ_AVEP02000328.1,Pseudomonas avellanae strain CC1416 contig328.1,9
+NZ_AVEP02000327.1,Pseudomonas avellanae strain CC1416 contig327.1,10
+NZ_AVEP02000326.1,Pseudomonas avellanae strain CC1416 contig326.1,11
+NZ_AVEP02000325.1,Pseudomonas avellanae strain CC1416 contig325.1,12
+NZ_AVEP02000324.1,Pseudomonas avellanae strain CC1416 contig324.1,13
+NZ_AVEP02000323.1,Pseudomonas avellanae strain CC1416 contig323.1,14
+NZ_AVEP02000322.1,Pseudomonas avellanae strain CC1416 contig322.1,15
+NZ_AVEP02000321.1,Pseudomonas avellanae strain CC1416 contig321.1,16
+NZ_AVEP02000320.1,Pseudomonas avellanae strain CC1416 contig320.1,17
+NZ_AVEP02000319.1,Pseudomonas avellanae strain CC1416 contig319.1,18
+NZ_AVEP02000318.1,Pseudomonas avellanae strain CC1416 contig318.1,19
+NZ_AVEP02000317.1,Pseudomonas avellanae strain CC1416 contig317.1,20
+NZ_AVEP02000316.1,Pseudomonas avellanae strain CC1416 contig316.1,21
+NZ_AVEP02000315.1,Pseudomonas avellanae strain CC1416 contig315.1,22
+NZ_AVEP02000314.1,Pseudomonas avellanae strain CC1416 contig314.1,23
+NZ_AVEP02000313.1,Pseudomonas avellanae strain CC1416 contig313.1,24
+NZ_AVEP02000312.1,Pseudomonas avellanae strain CC1416 contig312.1,25
+NZ_AVEP02000311.1,Pseudomonas avellanae strain CC1416 contig311.1,26
+NZ_AVEP02000310.1,Pseudomonas avellanae strain CC1416 contig310.1,27
+NZ_AVEP02000309.1,Pseudomonas avellanae strain CC1416 contig309.1,28
+NZ_AVEP02000308.1,Pseudomonas avellanae strain CC1416 contig308.1,29
+NZ_AVEP02000307.1,Pseudomonas avellanae strain CC1416 contig307.1,30
+NZ_AVEP02000306.1,Pseudomonas avellanae strain CC1416 contig306.1,31
+NZ_AVEP02000305.1,Pseudomonas avellanae strain CC1416 contig305.1,32
+NZ_AVEP02000304.1,Pseudomonas avellanae strain CC1416 contig304.1,33
+NZ_AVEP02000303.1,Pseudomonas avellanae strain CC1416 contig303.1,34
+NZ_AVEP02000302.1,Pseudomonas avellanae strain CC1416 contig302.1,35
+NZ_AVEP02000301.1,Pseudomonas avellanae strain CC1416 contig301.1,36
+NZ_AVEP02000300.1,Pseudomonas avellanae strain CC1416 contig300.1,37
+NZ_AVEP02000299.1,Pseudomonas avellanae strain CC1416 contig299.1,38
+NZ_AVEP02000298.1,Pseudomonas avellanae strain CC1416 contig298.1,39
+NZ_AVEP02000297.1,Pseudomonas avellanae strain CC1416 contig297.1,40
+NZ_AVEP02000296.1,Pseudomonas avellanae strain CC1416 contig296.1,41
+NZ_AVEP02000295.1,Pseudomonas avellanae strain CC1416 contig295.1,42
+NZ_AVEP02000294.1,Pseudomonas avellanae strain CC1416 contig294.1,43
+NZ_AVEP02000293.1,Pseudomonas avellanae strain CC1416 contig293.1,44
+NZ_AVEP02000292.1,Pseudomonas avellanae strain CC1416 contig292.1,45
+NZ_AVEP02000291.1,Pseudomonas avellanae strain CC1416 contig291.1,46
+NZ_AVEP02000290.1,Pseudomonas avellanae strain CC1416 contig290.1,47
+NZ_AVEP02000289.1,Pseudomonas avellanae strain CC1416 contig289.1,48
+NZ_AVEP02000288.1,Pseudomonas avellanae strain CC1416 contig288.1,49
+NZ_AVEP02000287.1,Pseudomonas avellanae strain CC1416 contig287.1,50
+NZ_AVEP02000286.1,Pseudomonas avellanae strain CC1416 contig286.1,51
+NZ_AVEP02000285.1,Pseudomonas avellanae strain CC1416 contig285.1,52
+NZ_AVEP02000284.1,Pseudomonas avellanae strain CC1416 contig284.1,53
+NZ_AVEP02000283.1,Pseudomonas avellanae strain CC1416 contig283.1,54
+NZ_AVEP02000282.1,Pseudomonas avellanae strain CC1416 contig282.1,55
+NZ_AVEP02000281.1,Pseudomonas avellanae strain CC1416 contig281.1,56
+NZ_AVEP02000280.1,Pseudomonas avellanae strain CC1416 contig280.1,57
+NZ_AVEP02000279.1,Pseudomonas avellanae strain CC1416 contig279.1,58
+NZ_AVEP02000278.1,Pseudomonas avellanae strain CC1416 contig278.1,59
+NZ_AVEP02000277.1,Pseudomonas avellanae strain CC1416 contig277.1,60
+NZ_AVEP02000276.1,Pseudomonas avellanae strain CC1416 contig276.1,61
+NZ_AVEP02000275.1,Pseudomonas avellanae strain CC1416 contig275.1,62
+NZ_AVEP02000274.1,Pseudomonas avellanae strain CC1416 contig274.1,63
+NZ_AVEP02000273.1,Pseudomonas avellanae strain CC1416 contig273.1,64
+NZ_AVEP02000272.1,Pseudomonas avellanae strain CC1416 contig272.1,65
+NZ_AVEP02000271.1,Pseudomonas avellanae strain CC1416 contig271.1,66
+NZ_AVEP02000270.1,Pseudomonas avellanae strain CC1416 contig270.1,67
+NZ_AVEP02000269.1,Pseudomonas avellanae strain CC1416 contig269.1,68
+NZ_AVEP02000268.1,Pseudomonas avellanae strain CC1416 contig268.1,69
+NZ_AVEP02000267.1,Pseudomonas avellanae strain CC1416 contig267.1,70
+NZ_AVEP02000266.1,Pseudomonas avellanae strain CC1416 contig266.1,71
+NZ_AVEP02000265.1,Pseudomonas avellanae strain CC1416 contig265.1,72
+NZ_AVEP02000264.1,Pseudomonas avellanae strain CC1416 contig264.1,73
+NZ_AVEP02000263.1,Pseudomonas avellanae strain CC1416 contig263.1,74
+NZ_AVEP02000262.1,Pseudomonas avellanae strain CC1416 contig262.1,75
+NZ_AVEP02000261.1,Pseudomonas avellanae strain CC1416 contig261.1,76
+NZ_AVEP02000260.1,Pseudomonas avellanae strain CC1416 contig260.1,77
+NZ_AVEP02000259.1,Pseudomonas avellanae strain CC1416 contig259.1,78
+NZ_AVEP02000258.1,Pseudomonas avellanae strain CC1416 contig258.1,79
+NZ_AVEP02000257.1,Pseudomonas avellanae strain CC1416 contig257.1,80
+NZ_AVEP02000256.1,Pseudomonas avellanae strain CC1416 contig256.1,81
+NZ_AVEP02000255.1,Pseudomonas avellanae strain CC1416 contig255.1,82
+NZ_AVEP02000254.1,Pseudomonas avellanae strain CC1416 contig254.1,83
+NZ_AVEP02000253.1,Pseudomonas avellanae strain CC1416 contig253.1,84
+NZ_AVEP02000252.1,Pseudomonas avellanae strain CC1416 contig252.1,85
+NZ_AVEP02000251.1,Pseudomonas avellanae strain CC1416 contig251.1,86
+NZ_AVEP02000250.1,Pseudomonas avellanae strain CC1416 contig250.1,87
+NZ_AVEP02000249.1,Pseudomonas avellanae strain CC1416 contig249.1,88
+NZ_AVEP02000248.1,Pseudomonas avellanae strain CC1416 contig248.1,89
+NZ_AVEP02000247.1,Pseudomonas avellanae strain CC1416 contig247.1,90
+NZ_AVEP02000246.1,Pseudomonas avellanae strain CC1416 contig246.1,91
+NZ_AVEP02000245.1,Pseudomonas avellanae strain CC1416 contig245.1,92
+NZ_AVEP02000244.1,Pseudomonas avellanae strain CC1416 contig244.1,93
+NZ_AVEP02000243.1,Pseudomonas avellanae strain CC1416 contig243.1,94
+NZ_AVEP02000242.1,Pseudomonas avellanae strain CC1416 contig242.1,95
+NZ_AVEP02000241.1,Pseudomonas avellanae strain CC1416 contig241.1,96
+NZ_AVEP02000240.1,Pseudomonas avellanae strain CC1416 contig240.1,97
+NZ_AVEP02000239.1,Pseudomonas avellanae strain CC1416 contig239.1,98
+NZ_AVEP02000238.1,Pseudomonas avellanae strain CC1416 contig238.1,99
+NZ_AVEP02000237.1,Pseudomonas avellanae strain CC1416 contig237.1,100
+NZ_AVEP02000236.1,Pseudomonas avellanae strain CC1416 contig236.1,101
+NZ_AVEP02000235.1,Pseudomonas avellanae strain CC1416 contig235.1,102
+NZ_AVEP02000234.1,Pseudomonas avellanae strain CC1416 contig234.1,103
+NZ_AVEP02000233.1,Pseudomonas avellanae strain CC1416 contig233.1,104
+NZ_AVEP02000232.1,Pseudomonas avellanae strain CC1416 contig232.1,105
+NZ_AVEP02000231.1,Pseudomonas avellanae strain CC1416 contig231.1,106
+NZ_AVEP02000230.1,Pseudomonas avellanae strain CC1416 contig230.1,107
+NZ_AVEP02000229.1,Pseudomonas avellanae strain CC1416 contig229.1,108
+NZ_AVEP02000228.1,Pseudomonas avellanae strain CC1416 contig228.1,109
+NZ_AVEP02000227.1,Pseudomonas avellanae strain CC1416 contig227.1,110
+NZ_AVEP02000226.1,Pseudomonas avellanae strain CC1416 contig226.1,111
+NZ_AVEP02000225.1,Pseudomonas avellanae strain CC1416 contig225.1,112
+NZ_AVEP02000224.1,Pseudomonas avellanae strain CC1416 contig224.1,113
+NZ_AVEP02000223.1,Pseudomonas avellanae strain CC1416 contig223.1,114
+NZ_AVEP02000222.1,Pseudomonas avellanae strain CC1416 contig222.1,115
+NZ_AVEP02000221.1,Pseudomonas avellanae strain CC1416 contig221.1,116
+NZ_AVEP02000220.1,Pseudomonas avellanae strain CC1416 contig220.1,117
+NZ_AVEP02000219.1,Pseudomonas avellanae strain CC1416 contig219.1,118
+NZ_AVEP02000218.1,Pseudomonas avellanae strain CC1416 contig218.1,119
+NZ_AVEP02000217.1,Pseudomonas avellanae strain CC1416 contig217.1,120
+NZ_AVEP02000216.1,Pseudomonas avellanae strain CC1416 contig216.1,121
+NZ_AVEP02000215.1,Pseudomonas avellanae strain CC1416 contig215.1,122
+NZ_AVEP02000214.1,Pseudomonas avellanae strain CC1416 contig214.1,123
+NZ_AVEP02000213.1,Pseudomonas avellanae strain CC1416 contig213.1,124
+NZ_AVEP02000212.1,Pseudomonas avellanae strain CC1416 contig212.1,125
+NZ_AVEP02000211.1,Pseudomonas avellanae strain CC1416 contig211.1,126
+NZ_AVEP02000210.1,Pseudomonas avellanae strain CC1416 contig210.1,127
+NZ_AVEP02000209.1,Pseudomonas avellanae strain CC1416 contig209.1,128
+NZ_AVEP02000208.1,Pseudomonas avellanae strain CC1416 contig208.1,129
+NZ_AVEP02000207.1,Pseudomonas avellanae strain CC1416 contig207.1,130
+NZ_AVEP02000206.1,Pseudomonas avellanae strain CC1416 contig206.1,131
+NZ_AVEP02000205.1,Pseudomonas avellanae strain CC1416 contig205.1,132
+NZ_AVEP02000204.1,Pseudomonas avellanae strain CC1416 contig204.1,133
+NZ_AVEP02000203.1,Pseudomonas avellanae strain CC1416 contig203.1,134
+NZ_AVEP02000202.1,Pseudomonas avellanae strain CC1416 contig202.1,135
+NZ_AVEP02000201.1,Pseudomonas avellanae strain CC1416 contig201.1,136
+NZ_AVEP02000200.1,Pseudomonas avellanae strain CC1416 contig200.1,137
+NZ_AVEP02000199.1,Pseudomonas avellanae strain CC1416 contig199.1,138
+NZ_AVEP02000198.1,Pseudomonas avellanae strain CC1416 contig198.1,139
+NZ_AVEP02000197.1,Pseudomonas avellanae strain CC1416 contig197.1,140
+NZ_AVEP02000196.1,Pseudomonas avellanae strain CC1416 contig196.1,141
+NZ_AVEP02000195.1,Pseudomonas avellanae strain CC1416 contig195.1,142
+NZ_AVEP02000194.1,Pseudomonas avellanae strain CC1416 contig194.1,143
+NZ_AVEP02000193.1,Pseudomonas avellanae strain CC1416 contig193.1,144
+NZ_AVEP02000192.1,Pseudomonas avellanae strain CC1416 contig192.1,145
+NZ_AVEP02000191.1,Pseudomonas avellanae strain CC1416 contig191.1,146
+NZ_AVEP02000190.1,Pseudomonas avellanae strain CC1416 contig190.1,147
+NZ_AVEP02000189.1,Pseudomonas avellanae strain CC1416 contig189.1,148
+NZ_AVEP02000188.1,Pseudomonas avellanae strain CC1416 contig188.1,149
+NZ_AVEP02000187.1,Pseudomonas avellanae strain CC1416 contig187.1,150
+NZ_AVEP02000186.1,Pseudomonas avellanae strain CC1416 contig186.1,151
+NZ_AVEP02000185.1,Pseudomonas avellanae strain CC1416 contig185.1,152
+NZ_AVEP02000184.1,Pseudomonas avellanae strain CC1416 contig184.1,153
+NZ_AVEP02000183.1,Pseudomonas avellanae strain CC1416 contig183.1,154
+NZ_AVEP02000182.1,Pseudomonas avellanae strain CC1416 contig182.1,155
+NZ_AVEP02000181.1,Pseudomonas avellanae strain CC1416 contig181.1,156
+NZ_AVEP02000180.1,Pseudomonas avellanae strain CC1416 contig180.1,157
+NZ_AVEP02000179.1,Pseudomonas avellanae strain CC1416 contig179.1,158
+NZ_AVEP02000178.1,Pseudomonas avellanae strain CC1416 contig178.1,159
+NZ_AVEP02000177.1,Pseudomonas avellanae strain CC1416 contig177.1,160
+NZ_AVEP02000176.1,Pseudomonas avellanae strain CC1416 contig176.1,161
+NZ_AVEP02000175.1,Pseudomonas avellanae strain CC1416 contig175.1,162
+NZ_AVEP02000174.1,Pseudomonas avellanae strain CC1416 contig174.1,163
+NZ_AVEP02000173.1,Pseudomonas avellanae strain CC1416 contig173.1,164
+NZ_AVEP02000172.1,Pseudomonas avellanae strain CC1416 contig172.1,165
+NZ_AVEP02000171.1,Pseudomonas avellanae strain CC1416 contig171.1,166
+NZ_AVEP02000170.1,Pseudomonas avellanae strain CC1416 contig170.1,167
+NZ_AVEP02000169.1,Pseudomonas avellanae strain CC1416 contig169.1,168
+NZ_AVEP02000168.1,Pseudomonas avellanae strain CC1416 contig168.1,169
+NZ_AVEP02000167.1,Pseudomonas avellanae strain CC1416 contig167.1,170
+NZ_AVEP02000166.1,Pseudomonas avellanae strain CC1416 contig166.1,171
+NZ_AVEP02000165.1,Pseudomonas avellanae strain CC1416 contig165.1,172
+NZ_AVEP02000164.1,Pseudomonas avellanae strain CC1416 contig164.1,173
+NZ_AVEP02000163.1,Pseudomonas avellanae strain CC1416 contig163.1,174
+NZ_AVEP02000162.1,Pseudomonas avellanae strain CC1416 contig162.1,175
+NZ_AVEP02000161.1,Pseudomonas avellanae strain CC1416 contig161.1,176
+NZ_AVEP02000160.1,Pseudomonas avellanae strain CC1416 contig160.1,177
+NZ_AVEP02000159.1,Pseudomonas avellanae strain CC1416 contig159.1,178
+NZ_AVEP02000158.1,Pseudomonas avellanae strain CC1416 contig158.1,179
+NZ_AVEP02000157.1,Pseudomonas avellanae strain CC1416 contig157.1,180
+NZ_AVEP02000156.1,Pseudomonas avellanae strain CC1416 contig156.1,181
+NZ_AVEP02000155.1,Pseudomonas avellanae strain CC1416 contig155.1,182
+NZ_AVEP02000154.1,Pseudomonas avellanae strain CC1416 contig154.1,183
+NZ_AVEP02000153.1,Pseudomonas avellanae strain CC1416 contig153.1,184
+NZ_AVEP02000152.1,Pseudomonas avellanae strain CC1416 contig152.1,185
+NZ_AVEP02000151.1,Pseudomonas avellanae strain CC1416 contig151.1,186
+NZ_AVEP02000150.1,Pseudomonas avellanae strain CC1416 contig150.1,187
+NZ_AVEP02000149.1,Pseudomonas avellanae strain CC1416 contig149.1,188
+NZ_AVEP02000148.1,Pseudomonas avellanae strain CC1416 contig148.1,189
+NZ_AVEP02000147.1,Pseudomonas avellanae strain CC1416 contig147.1,190
+NZ_AVEP02000146.1,Pseudomonas avellanae strain CC1416 contig146.1,191
+NZ_AVEP02000145.1,Pseudomonas avellanae strain CC1416 contig145.1,192
+NZ_AVEP02000144.1,Pseudomonas avellanae strain CC1416 contig144.1,193
+NZ_AVEP02000143.1,Pseudomonas avellanae strain CC1416 contig143.1,194
+NZ_AVEP02000142.1,Pseudomonas avellanae strain CC1416 contig142.1,195
+NZ_AVEP02000141.1,Pseudomonas avellanae strain CC1416 contig141.1,196
+NZ_AVEP02000140.1,Pseudomonas avellanae strain CC1416 contig140.1,197
+NZ_AVEP02000139.1,Pseudomonas avellanae strain CC1416 contig139.1,198
+NZ_AVEP02000138.1,Pseudomonas avellanae strain CC1416 contig138.1,199
+NZ_AVEP02000137.1,Pseudomonas avellanae strain CC1416 contig137.1,200
+NZ_AVEP02000136.1,Pseudomonas avellanae strain CC1416 contig136.1,201
+NZ_AVEP02000135.1,Pseudomonas avellanae strain CC1416 contig135.1,202
+NZ_AVEP02000134.1,Pseudomonas avellanae strain CC1416 contig134.1,203
+NZ_AVEP02000133.1,Pseudomonas avellanae strain CC1416 contig133.1,204
+NZ_AVEP02000132.1,Pseudomonas avellanae strain CC1416 contig132.1,205
+NZ_AVEP02000131.1,Pseudomonas avellanae strain CC1416 contig131.1,206
+NZ_AVEP02000130.1,Pseudomonas avellanae strain CC1416 contig130.1,207
+NZ_AVEP02000129.1,Pseudomonas avellanae strain CC1416 contig129.1,208
+NZ_AVEP02000128.1,Pseudomonas avellanae strain CC1416 contig128.1,209
+NZ_AVEP02000127.1,Pseudomonas avellanae strain CC1416 contig127.1,210
+NZ_AVEP02000126.1,Pseudomonas avellanae strain CC1416 contig126.1,211
+NZ_AVEP02000125.1,Pseudomonas avellanae strain CC1416 contig125.1,212
+NZ_AVEP02000124.1,Pseudomonas avellanae strain CC1416 contig124.1,213
+NZ_AVEP02000123.1,Pseudomonas avellanae strain CC1416 contig123.1,214
+NZ_AVEP02000122.1,Pseudomonas avellanae strain CC1416 contig122.1,215
+NZ_AVEP02000121.1,Pseudomonas avellanae strain CC1416 contig121.1,216
+NZ_AVEP02000120.1,Pseudomonas avellanae strain CC1416 contig120.1,217
+NZ_AVEP02000119.1,Pseudomonas avellanae strain CC1416 contig119.1,218
+NZ_AVEP02000118.1,Pseudomonas avellanae strain CC1416 contig118.1,219
+NZ_AVEP02000117.1,Pseudomonas avellanae strain CC1416 contig117.1,220
+NZ_AVEP02000116.1,Pseudomonas avellanae strain CC1416 contig116.1,221
+NZ_AVEP02000115.1,Pseudomonas avellanae strain CC1416 contig115.1,222
+NZ_AVEP02000114.1,Pseudomonas avellanae strain CC1416 contig114.1,223
+NZ_AVEP02000113.1,Pseudomonas avellanae strain CC1416 contig113.1,224
+NZ_AVEP02000112.1,Pseudomonas avellanae strain CC1416 contig112.1,225
+NZ_AVEP02000111.1,Pseudomonas avellanae strain CC1416 contig111.1,226
+NZ_AVEP02000110.1,Pseudomonas avellanae strain CC1416 contig110.1,227
+NZ_AVEP02000109.1,Pseudomonas avellanae strain CC1416 contig109.1,228
+NZ_AVEP02000108.1,Pseudomonas avellanae strain CC1416 contig108.1,229
+NZ_AVEP02000107.1,Pseudomonas avellanae strain CC1416 contig107.1,230
+NZ_AVEP02000106.1,Pseudomonas avellanae strain CC1416 contig106.1,231
+NZ_AVEP02000105.1,Pseudomonas avellanae strain CC1416 contig105.1,232
+NZ_AVEP02000104.1,Pseudomonas avellanae strain CC1416 contig104.1,233
+NZ_AVEP02000103.1,Pseudomonas avellanae strain CC1416 contig103.1,234
+NZ_AVEP02000102.1,Pseudomonas avellanae strain CC1416 contig102.1,235
+NZ_AVEP02000101.1,Pseudomonas avellanae strain CC1416 contig101.1,236
+NZ_AVEP02000100.1,Pseudomonas avellanae strain CC1416 contig100.1,237
+NZ_AVEP02000099.1,Pseudomonas avellanae strain CC1416 contig99.1,238
+NZ_AVEP02000098.1,Pseudomonas avellanae strain CC1416 contig98.1,239
+NZ_AVEP02000097.1,Pseudomonas avellanae strain CC1416 contig97.1,240
+NZ_AVEP02000096.1,Pseudomonas avellanae strain CC1416 contig96.1,241
+NZ_AVEP02000095.1,Pseudomonas avellanae strain CC1416 contig95.1,242
+NZ_AVEP02000094.1,Pseudomonas avellanae strain CC1416 contig94.1,243
+NZ_AVEP02000093.1,Pseudomonas avellanae strain CC1416 contig93.1,244
+NZ_AVEP02000092.1,Pseudomonas avellanae strain CC1416 contig92.1,245
+NZ_AVEP02000091.1,Pseudomonas avellanae strain CC1416 contig91.1,246
+NZ_AVEP02000090.1,Pseudomonas avellanae strain CC1416 contig90.1,247
+NZ_AVEP02000089.1,Pseudomonas avellanae strain CC1416 contig89.1,248
+NZ_AVEP02000088.1,Pseudomonas avellanae strain CC1416 contig88.1,249
+NZ_AVEP02000087.1,Pseudomonas avellanae strain CC1416 contig87.1,250
+NZ_AVEP02000086.1,Pseudomonas avellanae strain CC1416 contig86.1,251
+NZ_AVEP02000085.1,Pseudomonas avellanae strain CC1416 contig85.1,252
+NZ_AVEP02000084.1,Pseudomonas avellanae strain CC1416 contig84.1,253
+NZ_AVEP02000083.1,Pseudomonas avellanae strain CC1416 contig83.1,254
+NZ_AVEP02000082.1,Pseudomonas avellanae strain CC1416 contig82.1,255
+NZ_AVEP02000081.1,Pseudomonas avellanae strain CC1416 contig81.1,256
+NZ_AVEP02000080.1,Pseudomonas avellanae strain CC1416 contig80.1,257
+NZ_AVEP02000079.1,Pseudomonas avellanae strain CC1416 contig79.1,258
+NZ_AVEP02000078.1,Pseudomonas avellanae strain CC1416 contig78.1,259
+NZ_AVEP02000077.1,Pseudomonas avellanae strain CC1416 contig77.1,260
+NZ_AVEP02000076.1,Pseudomonas avellanae strain CC1416 contig76.1,261
+NZ_AVEP02000075.1,Pseudomonas avellanae strain CC1416 contig75.1,262
+NZ_AVEP02000074.1,Pseudomonas avellanae strain CC1416 contig74.1,263
+NZ_AVEP02000073.1,Pseudomonas avellanae strain CC1416 contig73.1,264
+NZ_AVEP02000072.1,Pseudomonas avellanae strain CC1416 contig72.1,265
+NZ_AVEP02000071.1,Pseudomonas avellanae strain CC1416 contig71.1,266
+NZ_AVEP02000070.1,Pseudomonas avellanae strain CC1416 contig70.1,267
+NZ_AVEP02000069.1,Pseudomonas avellanae strain CC1416 contig69.1,268
+NZ_AVEP02000068.1,Pseudomonas avellanae strain CC1416 contig68.1,269
+NZ_AVEP02000067.1,Pseudomonas avellanae strain CC1416 contig67.1,270
+NZ_AVEP02000066.1,Pseudomonas avellanae strain CC1416 contig66.1,271
+NZ_AVEP02000065.1,Pseudomonas avellanae strain CC1416 contig65.1,272
+NZ_AVEP02000064.1,Pseudomonas avellanae strain CC1416 contig64.1,273
+NZ_AVEP02000063.1,Pseudomonas avellanae strain CC1416 contig63.1,274
+NZ_AVEP02000062.1,Pseudomonas avellanae strain CC1416 contig62.1,275
+NZ_AVEP02000061.1,Pseudomonas avellanae strain CC1416 contig61.1,276
+NZ_AVEP02000060.1,Pseudomonas avellanae strain CC1416 contig60.1,277
+NZ_AVEP02000059.1,Pseudomonas avellanae strain CC1416 contig59.1,278
+NZ_AVEP02000058.1,Pseudomonas avellanae strain CC1416 contig58.1,279
+NZ_AVEP02000057.1,Pseudomonas avellanae strain CC1416 contig57.1,280
+NZ_AVEP02000056.1,Pseudomonas avellanae strain CC1416 contig56.1,281
+NZ_AVEP02000055.1,Pseudomonas avellanae strain CC1416 contig55.1,282
+NZ_AVEP02000054.1,Pseudomonas avellanae strain CC1416 contig54.1,283
+NZ_AVEP02000053.1,Pseudomonas avellanae strain CC1416 contig53.1,284
+NZ_AVEP02000052.1,Pseudomonas avellanae strain CC1416 contig52.1,285
+NZ_AVEP02000051.1,Pseudomonas avellanae strain CC1416 contig51.1,286
+NZ_AVEP02000050.1,Pseudomonas avellanae strain CC1416 contig50.1,287
+NZ_AVEP02000049.1,Pseudomonas avellanae strain CC1416 contig49.1,288
+NZ_AVEP02000048.1,Pseudomonas avellanae strain CC1416 contig48.1,289
+NZ_AVEP02000047.1,Pseudomonas avellanae strain CC1416 contig47.1,290
+NZ_AVEP02000046.1,Pseudomonas avellanae strain CC1416 contig46.1,291
+NZ_AVEP02000045.1,Pseudomonas avellanae strain CC1416 contig45.1,292
+NZ_AVEP02000044.1,Pseudomonas avellanae strain CC1416 contig44.1,293
+NZ_AVEP02000043.1,Pseudomonas avellanae strain CC1416 contig43.1,294
+NZ_AVEP02000042.1,Pseudomonas avellanae strain CC1416 contig42.1,295
+NZ_AVEP02000041.1,Pseudomonas avellanae strain CC1416 contig41.1,296
+NZ_AVEP02000040.1,Pseudomonas avellanae strain CC1416 contig40.1,297
+NZ_AVEP02000039.1,Pseudomonas avellanae strain CC1416 contig39.1,298
+NZ_AVEP02000038.1,Pseudomonas avellanae strain CC1416 contig38.1,299
+NZ_AVEP02000037.1,Pseudomonas avellanae strain CC1416 contig37.1,300
+NZ_AVEP02000036.1,Pseudomonas avellanae strain CC1416 contig36.1,301
+NZ_AVEP02000035.1,Pseudomonas avellanae strain CC1416 contig35.1,302
+NZ_AVEP02000034.1,Pseudomonas avellanae strain CC1416 contig34.1,303
+NZ_AVEP02000033.1,Pseudomonas avellanae strain CC1416 contig33.1,304
+NZ_AVEP02000032.1,Pseudomonas avellanae strain CC1416 contig32.1,305
+NZ_AVEP02000031.1,Pseudomonas avellanae strain CC1416 contig31.1,306
+NZ_AVEP02000030.1,Pseudomonas avellanae strain CC1416 contig30.1,307
+NZ_AVEP02000029.1,Pseudomonas avellanae strain CC1416 contig29.1,308
+NZ_AVEP02000028.1,Pseudomonas avellanae strain CC1416 contig28.1,309
+NZ_AVEP02000027.1,Pseudomonas avellanae strain CC1416 contig27.1,310
+NZ_AVEP02000026.1,Pseudomonas avellanae strain CC1416 contig26.1,311
+NZ_AVEP02000025.1,Pseudomonas avellanae strain CC1416 contig25.1,312
+NZ_AVEP02000024.1,Pseudomonas avellanae strain CC1416 contig24.1,313
+NZ_AVEP02000023.1,Pseudomonas avellanae strain CC1416 contig23.1,314
+NZ_AVEP02000022.1,Pseudomonas avellanae strain CC1416 contig22.1,315
+NZ_AVEP02000021.1,Pseudomonas avellanae strain CC1416 contig21.1,316
+NZ_AVEP02000020.1,Pseudomonas avellanae strain CC1416 contig20.1,317
+NZ_AVEP02000019.1,Pseudomonas avellanae strain CC1416 contig19.1,318
+NZ_AVEP02000018.1,Pseudomonas avellanae strain CC1416 contig18.1,319
+NZ_AVEP02000017.1,Pseudomonas avellanae strain CC1416 contig17.1,320
+NZ_AVEP02000016.1,Pseudomonas avellanae strain CC1416 contig16.1,321
+NZ_AVEP02000015.1,Pseudomonas avellanae strain CC1416 contig15.1,322
+NZ_AVEP02000014.1,Pseudomonas avellanae strain CC1416 contig14.1,323
+NZ_AVEP02000013.1,Pseudomonas avellanae strain CC1416 contig13.1,324
+NZ_AVEP02000012.1,Pseudomonas avellanae strain CC1416 contig12.1,325
+NZ_AVEP02000011.1,Pseudomonas avellanae strain CC1416 contig11.1,326
+NZ_AVEP02000010.1,Pseudomonas avellanae strain CC1416 contig10.1,327
+NZ_AVEP02000009.1,Pseudomonas avellanae strain CC1416 contig9.1,328
+NZ_AVEP02000008.1,Pseudomonas avellanae strain CC1416 contig8.1,329
+NZ_AVEP02000007.1,Pseudomonas avellanae strain CC1416 contig7.1,330
+NZ_AVEP02000006.1,Pseudomonas avellanae strain CC1416 contig6.1,331
+NZ_AVEP02000005.1,Pseudomonas avellanae strain CC1416 contig5.1,332
+NZ_AVEP02000004.1,Pseudomonas avellanae strain CC1416 contig4.1,333
+NZ_AVEP02000003.1,Pseudomonas avellanae strain CC1416 contig3.1,334
+NZ_AVEP02000002.1,Pseudomonas avellanae strain CC1416 contig2.1,335
+NZ_AVEP02000001.1,Pseudomonas avellanae strain CC1416 contig1.1,336
+NZ_JAJAVX010000001.1,Yersinia bercovieri strain IZSPB_Y87 contig00001,337
+NZ_JAJAVX010000002.1,Yersinia bercovieri strain IZSPB_Y87 contig00002,338
+NZ_JAJAVX010000003.1,Yersinia bercovieri strain IZSPB_Y87 contig00003,339
+NZ_JAJAVX010000004.1,Yersinia bercovieri strain IZSPB_Y87 contig00004,340
+NZ_JAJAVX010000005.1,Yersinia bercovieri strain IZSPB_Y87 contig00005,341
+NZ_JAJAVX010000006.1,Yersinia bercovieri strain IZSPB_Y87 contig00006,342
+NZ_JAJAVX010000007.1,Yersinia bercovieri strain IZSPB_Y87 contig00007,343
+NZ_JAJAVX010000008.1,Yersinia bercovieri strain IZSPB_Y87 contig00008,344
+NZ_JAJAVX010000009.1,Yersinia bercovieri strain IZSPB_Y87 contig00009,345
+NZ_JAJAVX010000010.1,Yersinia bercovieri strain IZSPB_Y87 contig00010,346
+NZ_JAJAVX010000011.1,Yersinia bercovieri strain IZSPB_Y87 contig00011,347
+NZ_JAJAVX010000012.1,Yersinia bercovieri strain IZSPB_Y87 contig00012,348
+NZ_JAJAVX010000013.1,Yersinia bercovieri strain IZSPB_Y87 contig00013,349
+NZ_JAJAVX010000014.1,Yersinia bercovieri strain IZSPB_Y87 contig00014,350
+NZ_JAJAVX010000015.1,Yersinia bercovieri strain IZSPB_Y87 contig00015,351
+NZ_JAJAVX010000016.1,Yersinia bercovieri strain IZSPB_Y87 contig00016,352
+NZ_JAJAVX010000017.1,Yersinia bercovieri strain IZSPB_Y87 contig00017,353
+NZ_JAJAVX010000018.1,Yersinia bercovieri strain IZSPB_Y87 contig00018,354
+NZ_JAJAVX010000019.1,Yersinia bercovieri strain IZSPB_Y87 contig00019,355
+NZ_JAJAVX010000020.1,Yersinia bercovieri strain IZSPB_Y87 contig00020,356
+NZ_JAJAVX010000021.1,Yersinia bercovieri strain IZSPB_Y87 contig00021,357
+NZ_JAJAVX010000022.1,Yersinia bercovieri strain IZSPB_Y87 contig00022,358
+NZ_JAJAVX010000023.1,Yersinia bercovieri strain IZSPB_Y87 contig00023,359
+NZ_JAJAVX010000024.1,Yersinia bercovieri strain IZSPB_Y87 contig00024,360
+NZ_JAJAVX010000025.1,Yersinia bercovieri strain IZSPB_Y87 contig00025,361
+NZ_JAJAVX010000026.1,Yersinia bercovieri strain IZSPB_Y87 contig00026,362
+NZ_JAJAVX010000027.1,Yersinia bercovieri strain IZSPB_Y87 contig00027,363
+NZ_JAJAVX010000028.1,Yersinia bercovieri strain IZSPB_Y87 contig00028,364
+NZ_JAJAVX010000029.1,Yersinia bercovieri strain IZSPB_Y87 contig00029,365
+NZ_JAJAVX010000030.1,Yersinia bercovieri strain IZSPB_Y87 contig00030,366
+NZ_JAGSPN010000587.1,Undibacterium luofuense strain LFS511W NODE_1000_length_290_cov_0.987730,367
+NZ_JAGSPN010000588.1,Undibacterium luofuense strain LFS511W NODE_1005_length_290_cov_0.846626,368
+NZ_JAGSPN010000589.1,Undibacterium luofuense strain LFS511W NODE_1006_length_290_cov_0.846626,369
+NZ_JAGSPN010000590.1,Undibacterium luofuense strain LFS511W NODE_1012_length_289_cov_1.561728,370
+NZ_JAGSPN010000591.1,Undibacterium luofuense strain LFS511W NODE_1013_length_289_cov_1.419753,371
+NZ_JAGSPN010000592.1,Undibacterium luofuense strain LFS511W NODE_1015_length_289_cov_1.277778,372
+NZ_JAGSPN010000593.1,Undibacterium luofuense strain LFS511W NODE_1017_length_289_cov_1.216049,373
+NZ_JAGSPN010000594.1,Undibacterium luofuense strain LFS511W NODE_1018_length_289_cov_1.135802,374
+NZ_JAGSPN010000595.1,Undibacterium luofuense strain LFS511W NODE_1020_length_289_cov_1.135802,375
+NZ_JAGSPN010000596.1,Undibacterium luofuense strain LFS511W NODE_1021_length_289_cov_1.135802,376
+NZ_JAGSPN010000597.1,Undibacterium luofuense strain LFS511W NODE_1023_length_289_cov_0.993827,377
+NZ_JAGSPN010000598.1,Undibacterium luofuense strain LFS511W NODE_1025_length_289_cov_0.851852,378
+NZ_JAGSPN010000599.1,Undibacterium luofuense strain LFS511W NODE_1030_length_288_cov_1.434783,379
+NZ_JAGSPN010000600.1,Undibacterium luofuense strain LFS511W NODE_1031_length_288_cov_1.428571,380
+NZ_JAGSPN010000601.1,Undibacterium luofuense strain LFS511W NODE_1034_length_288_cov_1.267081,381
+NZ_JAGSPN010000602.1,Undibacterium luofuense strain LFS511W NODE_1037_length_288_cov_1.142857,382
+NZ_JAGSPN010000603.1,Undibacterium luofuense strain LFS511W NODE_1038_length_288_cov_1.142857,383
+NZ_JAGSPN010000604.1,Undibacterium luofuense strain LFS511W NODE_1039_length_288_cov_1.142857,384
+NZ_JAGSPN010000605.1,Undibacterium luofuense strain LFS511W NODE_1040_length_288_cov_1.142857,385
+NZ_JAGSPN010000606.1,Undibacterium luofuense strain LFS511W NODE_1041_length_288_cov_1.000000,386
+NZ_JAGSPN010000607.1,Undibacterium luofuense strain LFS511W NODE_1042_length_288_cov_1.000000,387
+NZ_JAGSPN010000608.1,Undibacterium luofuense strain LFS511W NODE_1043_length_288_cov_1.000000,388
+NZ_JAGSPN010000609.1,Undibacterium luofuense strain LFS511W NODE_1044_length_288_cov_1.000000,389
+NZ_JAGSPN010000610.1,Undibacterium luofuense strain LFS511W NODE_1045_length_288_cov_1.000000,390
+NZ_JAGSPN010000611.1,Undibacterium luofuense strain LFS511W NODE_1046_length_288_cov_0.857143,391
+NZ_JAGSPN010000612.1,Undibacterium luofuense strain LFS511W NODE_1048_length_288_cov_0.857143,392
+NZ_JAGSPN010000613.1,Undibacterium luofuense strain LFS511W NODE_1053_length_288_cov_0.757764,393
+NZ_JAGSPN010000614.1,Undibacterium luofuense strain LFS511W NODE_1057_length_287_cov_1.150000,394
+NZ_JAGSPN010000615.1,Undibacterium luofuense strain LFS511W NODE_1058_length_287_cov_1.006250,395
+NZ_JAGSPN010000616.1,Undibacterium luofuense strain LFS511W NODE_1061_length_287_cov_0.862500,396
+NZ_JAGSPN010000617.1,Undibacterium luofuense strain LFS511W NODE_1066_length_286_cov_1.446541,397
+NZ_JAGSPN010000618.1,Undibacterium luofuense strain LFS511W NODE_1068_length_286_cov_1.157233,398
+NZ_JAGSPN010000619.1,Undibacterium luofuense strain LFS511W NODE_1069_length_286_cov_1.157233,399
+NZ_JAGSPN010000620.1,Undibacterium luofuense strain LFS511W NODE_1070_length_286_cov_1.157233,400
+NZ_JAGSPN010000621.1,Undibacterium luofuense strain LFS511W NODE_1074_length_286_cov_1.012579,401
+NZ_JAGSPN010000622.1,Undibacterium luofuense strain LFS511W NODE_1075_length_286_cov_1.012579,402
+NZ_JAGSPN010000623.1,Undibacterium luofuense strain LFS511W NODE_1078_length_286_cov_0.867925,403
+NZ_JAGSPN010000040.1,Undibacterium luofuense strain LFS511W NODE_107_length_884_cov_0.932629,404
+NZ_JAGSPN010000624.1,Undibacterium luofuense strain LFS511W NODE_1087_length_285_cov_1.018987,405
+NZ_JAGSPN010000625.1,Undibacterium luofuense strain LFS511W NODE_1088_length_285_cov_1.018987,406
+NZ_JAGSPN010000626.1,Undibacterium luofuense strain LFS511W NODE_1089_length_285_cov_0.873418,407
+NZ_JAGSPN010000627.1,Undibacterium luofuense strain LFS511W NODE_1097_length_284_cov_1.171975,408
+NZ_JAGSPN010000628.1,Undibacterium luofuense strain LFS511W NODE_1098_length_284_cov_1.171975,409
+NZ_JAGSPN010000629.1,Undibacterium luofuense strain LFS511W NODE_1099_length_284_cov_1.171975,410
+NZ_JAGSPN010000041.1,Undibacterium luofuense strain LFS511W NODE_109_length_861_cov_0.923706,411
+NZ_JAGSPN010000010.1,Undibacterium luofuense strain LFS511W NODE_10_length_179921_cov_43.133859,412
+NZ_JAGSPN010000630.1,Undibacterium luofuense strain LFS511W NODE_1100_length_284_cov_1.171975,413
+NZ_JAGSPN010000631.1,Undibacterium luofuense strain LFS511W NODE_1102_length_284_cov_1.025478,414
+NZ_JAGSPN010000632.1,Undibacterium luofuense strain LFS511W NODE_1104_length_284_cov_0.923567,415
+NZ_JAGSPN010000633.1,Undibacterium luofuense strain LFS511W NODE_1109_length_284_cov_0.878981,416
+NZ_JAGSPN010000634.1,Undibacterium luofuense strain LFS511W NODE_1111_length_284_cov_0.764331,417
+NZ_JAGSPN010000635.1,Undibacterium luofuense strain LFS511W NODE_1112_length_283_cov_1.326923,418
+NZ_JAGSPN010000636.1,Undibacterium luofuense strain LFS511W NODE_1113_length_283_cov_1.179487,419
+NZ_JAGSPN010000637.1,Undibacterium luofuense strain LFS511W NODE_1114_length_283_cov_1.179487,420
+NZ_JAGSPN010000638.1,Undibacterium luofuense strain LFS511W NODE_1115_length_283_cov_1.179487,421
+NZ_JAGSPN010000639.1,Undibacterium luofuense strain LFS511W NODE_1116_length_283_cov_1.179487,422
+NZ_JAGSPN010000640.1,Undibacterium luofuense strain LFS511W NODE_1118_length_283_cov_1.179487,423
+NZ_JAGSPN010000641.1,Undibacterium luofuense strain LFS511W NODE_1119_length_283_cov_1.179487,424
+NZ_JAGSPN010000042.1,Undibacterium luofuense strain LFS511W NODE_111_length_859_cov_125.364754,425
+NZ_JAGSPN010000642.1,Undibacterium luofuense strain LFS511W NODE_1121_length_283_cov_1.032051,426
+NZ_JAGSPN010000643.1,Undibacterium luofuense strain LFS511W NODE_1122_length_283_cov_1.032051,427
+NZ_JAGSPN010000644.1,Undibacterium luofuense strain LFS511W NODE_1123_length_283_cov_0.884615,428
+NZ_JAGSPN010000645.1,Undibacterium luofuense strain LFS511W NODE_1124_length_283_cov_0.884615,429
+NZ_JAGSPN010000646.1,Undibacterium luofuense strain LFS511W NODE_1125_length_283_cov_0.884615,430
+NZ_JAGSPN010000043.1,Undibacterium luofuense strain LFS511W NODE_112_length_858_cov_48.307798,431
+NZ_JAGSPN010000647.1,Undibacterium luofuense strain LFS511W NODE_1132_length_282_cov_1.335484,432
+NZ_JAGSPN010000648.1,Undibacterium luofuense strain LFS511W NODE_1133_length_282_cov_1.187097,433
+NZ_JAGSPN010000649.1,Undibacterium luofuense strain LFS511W NODE_1134_length_282_cov_1.187097,434
+NZ_JAGSPN010000650.1,Undibacterium luofuense strain LFS511W NODE_1135_length_282_cov_1.187097,435
+NZ_JAGSPN010000651.1,Undibacterium luofuense strain LFS511W NODE_1136_length_282_cov_1.038710,436
+NZ_JAGSPN010000652.1,Undibacterium luofuense strain LFS511W NODE_1138_length_282_cov_1.038710,437
+NZ_JAGSPN010000653.1,Undibacterium luofuense strain LFS511W NODE_1140_length_282_cov_1.019355,438
+NZ_JAGSPN010000654.1,Undibacterium luofuense strain LFS511W NODE_1145_length_281_cov_1.603896,439
+NZ_JAGSPN010000655.1,Undibacterium luofuense strain LFS511W NODE_1146_length_281_cov_1.493506,440
+NZ_JAGSPN010000656.1,Undibacterium luofuense strain LFS511W NODE_1149_length_281_cov_1.194805,441
+NZ_JAGSPN010000657.1,Undibacterium luofuense strain LFS511W NODE_1150_length_281_cov_1.194805,442
+NZ_JAGSPN010000658.1,Undibacterium luofuense strain LFS511W NODE_1151_length_281_cov_1.194805,443
+NZ_JAGSPN010000659.1,Undibacterium luofuense strain LFS511W NODE_1154_length_281_cov_1.045455,444
+NZ_JAGSPN010000660.1,Undibacterium luofuense strain LFS511W NODE_1155_length_281_cov_1.045455,445
+NZ_JAGSPN010000661.1,Undibacterium luofuense strain LFS511W NODE_1156_length_281_cov_1.045455,446
+NZ_JAGSPN010000662.1,Undibacterium luofuense strain LFS511W NODE_1158_length_281_cov_1.045455,447
+NZ_JAGSPN010000663.1,Undibacterium luofuense strain LFS511W NODE_1160_length_281_cov_0.896104,448
+NZ_JAGSPN010000664.1,Undibacterium luofuense strain LFS511W NODE_1162_length_280_cov_1.352941,449
+NZ_JAGSPN010000665.1,Undibacterium luofuense strain LFS511W NODE_1164_length_280_cov_1.052288,450
+NZ_JAGSPN010000666.1,Undibacterium luofuense strain LFS511W NODE_1165_length_280_cov_1.052288,451
+NZ_JAGSPN010000667.1,Undibacterium luofuense strain LFS511W NODE_1166_length_280_cov_1.045752,452
+NZ_JAGSPN010000668.1,Undibacterium luofuense strain LFS511W NODE_1169_length_280_cov_0.901961,453
+NZ_JAGSPN010000669.1,Undibacterium luofuense strain LFS511W NODE_1170_length_279_cov_87.631579,454
+NZ_JAGSPN010000670.1,Undibacterium luofuense strain LFS511W NODE_1171_length_279_cov_1.513158,455
+NZ_JAGSPN010000671.1,Undibacterium luofuense strain LFS511W NODE_1172_length_279_cov_1.361842,456
+NZ_JAGSPN010000672.1,Undibacterium luofuense strain LFS511W NODE_1174_length_279_cov_1.342105,457
+NZ_JAGSPN010000673.1,Undibacterium luofuense strain LFS511W NODE_1175_length_279_cov_1.210526,458
+NZ_JAGSPN010000674.1,Undibacterium luofuense strain LFS511W NODE_1176_length_279_cov_1.210526,459
+NZ_JAGSPN010000675.1,Undibacterium luofuense strain LFS511W NODE_1178_length_279_cov_1.059211,460
+NZ_JAGSPN010000676.1,Undibacterium luofuense strain LFS511W NODE_1180_length_279_cov_0.907895,461
+NZ_JAGSPN010000677.1,Undibacterium luofuense strain LFS511W NODE_1181_length_279_cov_0.907895,462
+NZ_JAGSPN010000678.1,Undibacterium luofuense strain LFS511W NODE_1182_length_279_cov_0.907895,463
+NZ_JAGSPN010000679.1,Undibacterium luofuense strain LFS511W NODE_1183_length_279_cov_0.907895,464
+NZ_JAGSPN010000680.1,Undibacterium luofuense strain LFS511W NODE_1184_length_279_cov_0.907895,465
+NZ_JAGSPN010000681.1,Undibacterium luofuense strain LFS511W NODE_1185_length_279_cov_0.907895,466
+NZ_JAGSPN010000682.1,Undibacterium luofuense strain LFS511W NODE_1186_length_279_cov_0.907895,467
+NZ_JAGSPN010000683.1,Undibacterium luofuense strain LFS511W NODE_1188_length_279_cov_0.907895,468
+NZ_JAGSPN010000684.1,Undibacterium luofuense strain LFS511W NODE_1189_length_279_cov_0.888158,469
+NZ_JAGSPN010000044.1,Undibacterium luofuense strain LFS511W NODE_118_length_794_cov_0.965517,470
+NZ_JAGSPN010000685.1,Undibacterium luofuense strain LFS511W NODE_1190_length_279_cov_0.756579,471
+NZ_JAGSPN010000686.1,Undibacterium luofuense strain LFS511W NODE_1191_length_279_cov_0.756579,472
+NZ_JAGSPN010000687.1,Undibacterium luofuense strain LFS511W NODE_1192_length_279_cov_0.756579,473
+NZ_JAGSPN010000688.1,Undibacterium luofuense strain LFS511W NODE_1195_length_278_cov_1.218543,474
+NZ_JAGSPN010000689.1,Undibacterium luofuense strain LFS511W NODE_1196_length_278_cov_1.218543,475
+NZ_JAGSPN010000690.1,Undibacterium luofuense strain LFS511W NODE_1197_length_278_cov_1.218543,476
+NZ_JAGSPN010000691.1,Undibacterium luofuense strain LFS511W NODE_1199_length_278_cov_1.205298,477
+NZ_JAGSPN010000045.1,Undibacterium luofuense strain LFS511W NODE_119_length_792_cov_0.897744,478
+NZ_JAGSPN010000011.1,Undibacterium luofuense strain LFS511W NODE_11_length_163547_cov_39.455819,479
+NZ_JAGSPN010000692.1,Undibacterium luofuense strain LFS511W NODE_1200_length_278_cov_1.066225,480
+NZ_JAGSPN010000693.1,Undibacterium luofuense strain LFS511W NODE_1202_length_278_cov_1.066225,481
+NZ_JAGSPN010000694.1,Undibacterium luofuense strain LFS511W NODE_1203_length_278_cov_0.913907,482
+NZ_JAGSPN010000695.1,Undibacterium luofuense strain LFS511W NODE_1204_length_278_cov_0.913907,483
+NZ_JAGSPN010000696.1,Undibacterium luofuense strain LFS511W NODE_1210_length_278_cov_0.913907,484
+NZ_JAGSPN010000697.1,Undibacterium luofuense strain LFS511W NODE_1211_length_278_cov_0.854305,485
+NZ_JAGSPN010000698.1,Undibacterium luofuense strain LFS511W NODE_1212_length_274_cov_265.115646,486
+NZ_JAGSPN010000699.1,Undibacterium luofuense strain LFS511W NODE_1213_length_264_cov_52.963504,487
+NZ_JAGSPN010000700.1,Undibacterium luofuense strain LFS511W NODE_1214_length_261_cov_99.276119,488
+NZ_JAGSPN010000701.1,Undibacterium luofuense strain LFS511W NODE_1215_length_255_cov_148.789062,489
+NZ_JAGSPN010000702.1,Undibacterium luofuense strain LFS511W NODE_1216_length_255_cov_85.343750,490
+NZ_JAGSPN010000703.1,Undibacterium luofuense strain LFS511W NODE_1217_length_255_cov_52.421875,491
+NZ_JAGSPN010000704.1,Undibacterium luofuense strain LFS511W NODE_1218_length_255_cov_48.328125,492
+NZ_JAGSPN010000705.1,Undibacterium luofuense strain LFS511W NODE_1219_length_255_cov_45.273438,493
+NZ_JAGSPN010000046.1,Undibacterium luofuense strain LFS511W NODE_121_length_782_cov_70.425954,494
+NZ_JAGSPN010000706.1,Undibacterium luofuense strain LFS511W NODE_1220_length_255_cov_45.062500,495
+NZ_JAGSPN010000707.1,Undibacterium luofuense strain LFS511W NODE_1221_length_255_cov_43.257812,496
+NZ_JAGSPN010000708.1,Undibacterium luofuense strain LFS511W NODE_1222_length_255_cov_42.218750,497
+NZ_JAGSPN010000709.1,Undibacterium luofuense strain LFS511W NODE_1223_length_255_cov_40.234375,498
+NZ_JAGSPN010000710.1,Undibacterium luofuense strain LFS511W NODE_1224_length_255_cov_39.812500,499
+NZ_JAGSPN010000711.1,Undibacterium luofuense strain LFS511W NODE_1225_length_255_cov_37.726562,500
+NZ_JAGSPN010000712.1,Undibacterium luofuense strain LFS511W NODE_1226_length_255_cov_34.265625,501
+NZ_JAGSPN010000713.1,Undibacterium luofuense strain LFS511W NODE_1227_length_254_cov_34.110236,502
+NZ_JAGSPN010000714.1,Undibacterium luofuense strain LFS511W NODE_1228_length_240_cov_85.734513,503
+NZ_JAGSPN010000715.1,Undibacterium luofuense strain LFS511W NODE_1229_length_230_cov_38.747573,504
+NZ_JAGSPN010000047.1,Undibacterium luofuense strain LFS511W NODE_122_length_780_cov_0.898928,505
+NZ_JAGSPN010000716.1,Undibacterium luofuense strain LFS511W NODE_1230_length_226_cov_41.050505,506
+NZ_JAGSPN010000717.1,Undibacterium luofuense strain LFS511W NODE_1231_length_222_cov_53.894737,507
+NZ_JAGSPN010000718.1,Undibacterium luofuense strain LFS511W NODE_1232_length_222_cov_47.578947,508
+NZ_JAGSPN010000719.1,Undibacterium luofuense strain LFS511W NODE_1233_length_201_cov_43.459459,509
+NZ_JAGSPN010000048.1,Undibacterium luofuense strain LFS511W NODE_124_length_775_cov_0.922840,510
+NZ_JAGSPN010000049.1,Undibacterium luofuense strain LFS511W NODE_127_length_756_cov_1.289348,511
+NZ_JAGSPN010000012.1,Undibacterium luofuense strain LFS511W NODE_12_length_156375_cov_50.387122,512
+NZ_JAGSPN010000050.1,Undibacterium luofuense strain LFS511W NODE_132_length_738_cov_0.865794,513
+NZ_JAGSPN010000051.1,Undibacterium luofuense strain LFS511W NODE_134_length_734_cov_0.864909,514
+NZ_JAGSPN010000052.1,Undibacterium luofuense strain LFS511W NODE_138_length_726_cov_31.186978,515
+NZ_JAGSPN010000013.1,Undibacterium luofuense strain LFS511W NODE_13_length_145220_cov_38.862853,516
+NZ_JAGSPN010000053.1,Undibacterium luofuense strain LFS511W NODE_141_length_714_cov_116.364566,517
+NZ_JAGSPN010000054.1,Undibacterium luofuense strain LFS511W NODE_146_length_695_cov_34.491197,518
+NZ_JAGSPN010000014.1,Undibacterium luofuense strain LFS511W NODE_14_length_128463_cov_42.066295,519
+NZ_JAGSPN010000055.1,Undibacterium luofuense strain LFS511W NODE_151_length_682_cov_0.953153,520
+NZ_JAGSPN010000056.1,Undibacterium luofuense strain LFS511W NODE_153_length_677_cov_0.836364,521
+NZ_JAGSPN010000057.1,Undibacterium luofuense strain LFS511W NODE_154_length_670_cov_0.931860,522
+NZ_JAGSPN010000015.1,Undibacterium luofuense strain LFS511W NODE_15_length_113604_cov_35.923706,523
+NZ_JAGSPN010000058.1,Undibacterium luofuense strain LFS511W NODE_160_length_646_cov_0.799615,524
+NZ_JAGSPN010000059.1,Undibacterium luofuense strain LFS511W NODE_164_length_642_cov_0.982524,525
+NZ_JAGSPN010000060.1,Undibacterium luofuense strain LFS511W NODE_165_length_640_cov_0.959064,526
+NZ_JAGSPN010000061.1,Undibacterium luofuense strain LFS511W NODE_166_length_638_cov_0.810176,527
+NZ_JAGSPN010000062.1,Undibacterium luofuense strain LFS511W NODE_167_length_636_cov_0.903733,528
+NZ_JAGSPN010000063.1,Undibacterium luofuense strain LFS511W NODE_168_length_635_cov_0.996063,529
+NZ_JAGSPN010000064.1,Undibacterium luofuense strain LFS511W NODE_169_length_633_cov_1.090909,530
+NZ_JAGSPN010000016.1,Undibacterium luofuense strain LFS511W NODE_16_length_110795_cov_48.512126,531
+NZ_JAGSPN010000065.1,Undibacterium luofuense strain LFS511W NODE_171_length_626_cov_43.146293,532
+NZ_JAGSPN010000066.1,Undibacterium luofuense strain LFS511W NODE_172_length_625_cov_0.883534,533
+NZ_JAGSPN010000067.1,Undibacterium luofuense strain LFS511W NODE_174_length_621_cov_1.024291,534
+NZ_JAGSPN010000017.1,Undibacterium luofuense strain LFS511W NODE_17_length_74841_cov_35.748882,535
+NZ_JAGSPN010000068.1,Undibacterium luofuense strain LFS511W NODE_182_length_604_cov_1.109015,536
+NZ_JAGSPN010000069.1,Undibacterium luofuense strain LFS511W NODE_183_length_603_cov_0.869748,537
+NZ_JAGSPN010000070.1,Undibacterium luofuense strain LFS511W NODE_184_length_602_cov_0.871579,538
+NZ_JAGSPN010000071.1,Undibacterium luofuense strain LFS511W NODE_188_length_594_cov_1.164882,539
+NZ_JAGSPN010000018.1,Undibacterium luofuense strain LFS511W NODE_18_length_74363_cov_34.364607,540
+NZ_JAGSPN010000072.1,Undibacterium luofuense strain LFS511W NODE_190_length_592_cov_0.989247,541
+NZ_JAGSPN010000073.1,Undibacterium luofuense strain LFS511W NODE_191_length_592_cov_0.864516,542
+NZ_JAGSPN010000074.1,Undibacterium luofuense strain LFS511W NODE_192_length_591_cov_0.842672,543
+NZ_JAGSPN010000075.1,Undibacterium luofuense strain LFS511W NODE_197_length_578_cov_1.031042,544
+NZ_JAGSPN010000076.1,Undibacterium luofuense strain LFS511W NODE_199_length_576_cov_1.024499,545
+NZ_JAGSPN010000019.1,Undibacterium luofuense strain LFS511W NODE_19_length_73977_cov_49.436087,546
+NZ_JAGSPN010000001.1,Undibacterium luofuense strain LFS511W NODE_1_length_778215_cov_47.555402,547
+NZ_JAGSPN010000077.1,Undibacterium luofuense strain LFS511W NODE_200_length_576_cov_0.890869,548
+NZ_JAGSPN010000078.1,Undibacterium luofuense strain LFS511W NODE_201_length_574_cov_1.378076,549
+NZ_JAGSPN010000079.1,Undibacterium luofuense strain LFS511W NODE_203_length_565_cov_0.931507,550
+NZ_JAGSPN010000080.1,Undibacterium luofuense strain LFS511W NODE_204_length_563_cov_0.873853,551
+NZ_JAGSPN010000081.1,Undibacterium luofuense strain LFS511W NODE_209_length_557_cov_1.237209,552
+NZ_JAGSPN010000020.1,Undibacterium luofuense strain LFS511W NODE_20_length_37804_cov_40.105290,553
+NZ_JAGSPN010000082.1,Undibacterium luofuense strain LFS511W NODE_210_length_557_cov_0.909302,554
+NZ_JAGSPN010000083.1,Undibacterium luofuense strain LFS511W NODE_213_length_554_cov_0.915691,555
+NZ_JAGSPN010000084.1,Undibacterium luofuense strain LFS511W NODE_217_length_548_cov_1.052257,556
+NZ_JAGSPN010000085.1,Undibacterium luofuense strain LFS511W NODE_219_length_545_cov_0.990431,557
+NZ_JAGSPN010000021.1,Undibacterium luofuense strain LFS511W NODE_21_length_18713_cov_39.326644,558
+NZ_JAGSPN010000086.1,Undibacterium luofuense strain LFS511W NODE_221_length_543_cov_1.050481,559
+NZ_JAGSPN010000087.1,Undibacterium luofuense strain LFS511W NODE_225_length_540_cov_0.837772,560
+NZ_JAGSPN010000088.1,Undibacterium luofuense strain LFS511W NODE_227_length_537_cov_0.914634,561
+NZ_JAGSPN010000089.1,Undibacterium luofuense strain LFS511W NODE_228_length_534_cov_0.992629,562
+NZ_JAGSPN010000090.1,Undibacterium luofuense strain LFS511W NODE_229_length_534_cov_0.987715,563
+NZ_JAGSPN010000022.1,Undibacterium luofuense strain LFS511W NODE_22_length_13423_cov_36.205024,564
+NZ_JAGSPN010000091.1,Undibacterium luofuense strain LFS511W NODE_230_length_533_cov_0.896552,565
+NZ_JAGSPN010000092.1,Undibacterium luofuense strain LFS511W NODE_231_length_532_cov_0.908642,566
+NZ_JAGSPN010000093.1,Undibacterium luofuense strain LFS511W NODE_233_length_529_cov_1.099502,567
+NZ_JAGSPN010000094.1,Undibacterium luofuense strain LFS511W NODE_234_length_529_cov_0.985075,568
+NZ_JAGSPN010000095.1,Undibacterium luofuense strain LFS511W NODE_235_length_529_cov_0.915423,569
+NZ_JAGSPN010000096.1,Undibacterium luofuense strain LFS511W NODE_236_length_528_cov_0.975062,570
+NZ_JAGSPN010000097.1,Undibacterium luofuense strain LFS511W NODE_239_length_518_cov_0.882353,571
+NZ_JAGSPN010000023.1,Undibacterium luofuense strain LFS511W NODE_23_length_5420_cov_321.234083,572
+NZ_JAGSPN010000098.1,Undibacterium luofuense strain LFS511W NODE_240_length_517_cov_8.610256,573
+NZ_JAGSPN010000099.1,Undibacterium luofuense strain LFS511W NODE_241_length_517_cov_1.061538,574
+NZ_JAGSPN010000100.1,Undibacterium luofuense strain LFS511W NODE_244_length_516_cov_0.925450,575
+NZ_JAGSPN010000101.1,Undibacterium luofuense strain LFS511W NODE_245_length_516_cov_0.866324,576
+NZ_JAGSPN010000102.1,Undibacterium luofuense strain LFS511W NODE_246_length_514_cov_0.785530,577
+NZ_JAGSPN010000103.1,Undibacterium luofuense strain LFS511W NODE_247_length_512_cov_0.896104,578
+NZ_JAGSPN010000024.1,Undibacterium luofuense strain LFS511W NODE_24_length_4258_cov_6.501816,579
+NZ_JAGSPN010000104.1,Undibacterium luofuense strain LFS511W NODE_253_length_507_cov_1.028947,580
+NZ_JAGSPN010000105.1,Undibacterium luofuense strain LFS511W NODE_255_length_503_cov_1.101064,581
+NZ_JAGSPN010000106.1,Undibacterium luofuense strain LFS511W NODE_256_length_503_cov_0.978723,582
+NZ_JAGSPN010000107.1,Undibacterium luofuense strain LFS511W NODE_257_length_503_cov_0.917553,583
+NZ_JAGSPN010000108.1,Undibacterium luofuense strain LFS511W NODE_258_length_503_cov_0.856383,584
+NZ_JAGSPN010000109.1,Undibacterium luofuense strain LFS511W NODE_259_length_502_cov_0.840000,585
+NZ_JAGSPN010000025.1,Undibacterium luofuense strain LFS511W NODE_25_length_4031_cov_43.333248,586
+NZ_JAGSPN010000110.1,Undibacterium luofuense strain LFS511W NODE_263_length_499_cov_0.865591,587
+NZ_JAGSPN010000111.1,Undibacterium luofuense strain LFS511W NODE_267_length_498_cov_0.867925,588
+NZ_JAGSPN010000112.1,Undibacterium luofuense strain LFS511W NODE_270_length_496_cov_1.056911,589
+NZ_JAGSPN010000113.1,Undibacterium luofuense strain LFS511W NODE_271_length_493_cov_1.256831,590
+NZ_JAGSPN010000114.1,Undibacterium luofuense strain LFS511W NODE_272_length_493_cov_0.942623,591
+NZ_JAGSPN010000115.1,Undibacterium luofuense strain LFS511W NODE_273_length_491_cov_0.947802,592
+NZ_JAGSPN010000116.1,Undibacterium luofuense strain LFS511W NODE_274_length_489_cov_94.102210,593
+NZ_JAGSPN010000117.1,Undibacterium luofuense strain LFS511W NODE_275_length_489_cov_37.066298,594
+NZ_JAGSPN010000118.1,Undibacterium luofuense strain LFS511W NODE_276_length_489_cov_1.016575,595
+NZ_JAGSPN010000119.1,Undibacterium luofuense strain LFS511W NODE_277_length_488_cov_1.019391,596
+NZ_JAGSPN010000120.1,Undibacterium luofuense strain LFS511W NODE_278_length_487_cov_1.022222,597
+NZ_JAGSPN010000121.1,Undibacterium luofuense strain LFS511W NODE_279_length_486_cov_1.300836,598
+NZ_JAGSPN010000026.1,Undibacterium luofuense strain LFS511W NODE_27_length_2228_cov_0.872442,599
+NZ_JAGSPN010000122.1,Undibacterium luofuense strain LFS511W NODE_280_length_485_cov_1.349162,600
+NZ_JAGSPN010000123.1,Undibacterium luofuense strain LFS511W NODE_281_length_485_cov_1.027933,601
+NZ_JAGSPN010000124.1,Undibacterium luofuense strain LFS511W NODE_282_length_485_cov_0.899441,602
+NZ_JAGSPN010000125.1,Undibacterium luofuense strain LFS511W NODE_285_length_482_cov_0.971831,603
+NZ_JAGSPN010000126.1,Undibacterium luofuense strain LFS511W NODE_286_length_482_cov_0.971831,604
+NZ_JAGSPN010000127.1,Undibacterium luofuense strain LFS511W NODE_287_length_482_cov_0.909859,605
+NZ_JAGSPN010000128.1,Undibacterium luofuense strain LFS511W NODE_288_length_478_cov_1.005698,606
+NZ_JAGSPN010000129.1,Undibacterium luofuense strain LFS511W NODE_293_length_473_cov_0.757225,607
+NZ_JAGSPN010000130.1,Undibacterium luofuense strain LFS511W NODE_294_length_472_cov_0.994203,608
+NZ_JAGSPN010000131.1,Undibacterium luofuense strain LFS511W NODE_295_length_472_cov_0.933333,609
+NZ_JAGSPN010000132.1,Undibacterium luofuense strain LFS511W NODE_296_length_470_cov_1.341108,610
+NZ_JAGSPN010000133.1,Undibacterium luofuense strain LFS511W NODE_298_length_467_cov_1.014706,611
+NZ_JAGSPN010000002.1,Undibacterium luofuense strain LFS511W NODE_2_length_427641_cov_39.945833,612
+NZ_JAGSPN010000134.1,Undibacterium luofuense strain LFS511W NODE_301_length_466_cov_0.882006,613
+NZ_JAGSPN010000135.1,Undibacterium luofuense strain LFS511W NODE_303_length_463_cov_1.434524,614
+NZ_JAGSPN010000136.1,Undibacterium luofuense strain LFS511W NODE_304_length_463_cov_1.026786,615
+NZ_JAGSPN010000137.1,Undibacterium luofuense strain LFS511W NODE_305_length_463_cov_0.889881,616
+NZ_JAGSPN010000138.1,Undibacterium luofuense strain LFS511W NODE_307_length_462_cov_124.205970,617
+NZ_JAGSPN010000139.1,Undibacterium luofuense strain LFS511W NODE_310_length_461_cov_0.961078,618
+NZ_JAGSPN010000140.1,Undibacterium luofuense strain LFS511W NODE_311_length_461_cov_0.895210,619
+NZ_JAGSPN010000141.1,Undibacterium luofuense strain LFS511W NODE_312_length_460_cov_0.966967,620
+NZ_JAGSPN010000142.1,Undibacterium luofuense strain LFS511W NODE_313_length_460_cov_0.948949,621
+NZ_JAGSPN010000143.1,Undibacterium luofuense strain LFS511W NODE_314_length_458_cov_1.247734,622
+NZ_JAGSPN010000144.1,Undibacterium luofuense strain LFS511W NODE_315_length_458_cov_0.972810,623
+NZ_JAGSPN010000145.1,Undibacterium luofuense strain LFS511W NODE_320_length_455_cov_1.051829,624
+NZ_JAGSPN010000146.1,Undibacterium luofuense strain LFS511W NODE_322_length_454_cov_0.844037,625
+NZ_JAGSPN010000147.1,Undibacterium luofuense strain LFS511W NODE_323_length_453_cov_0.846626,626
+NZ_JAGSPN010000148.1,Undibacterium luofuense strain LFS511W NODE_324_length_452_cov_1.283077,627
+NZ_JAGSPN010000149.1,Undibacterium luofuense strain LFS511W NODE_325_length_451_cov_1.185185,628
+NZ_JAGSPN010000150.1,Undibacterium luofuense strain LFS511W NODE_326_length_451_cov_0.922840,629
+NZ_JAGSPN010000151.1,Undibacterium luofuense strain LFS511W NODE_327_length_450_cov_57.179567,630
+NZ_JAGSPN010000152.1,Undibacterium luofuense strain LFS511W NODE_329_length_450_cov_0.925697,631
+NZ_JAGSPN010000153.1,Undibacterium luofuense strain LFS511W NODE_330_length_450_cov_0.854489,632
+NZ_JAGSPN010000154.1,Undibacterium luofuense strain LFS511W NODE_332_length_449_cov_0.928571,633
+NZ_JAGSPN010000155.1,Undibacterium luofuense strain LFS511W NODE_333_length_449_cov_0.857143,634
+NZ_JAGSPN010000156.1,Undibacterium luofuense strain LFS511W NODE_334_length_448_cov_83.545171,635
+NZ_JAGSPN010000157.1,Undibacterium luofuense strain LFS511W NODE_335_length_448_cov_0.931464,636
+NZ_JAGSPN010000158.1,Undibacterium luofuense strain LFS511W NODE_336_length_448_cov_0.881620,637
+NZ_JAGSPN010000159.1,Undibacterium luofuense strain LFS511W NODE_337_length_448_cov_0.850467,638
+NZ_JAGSPN010000160.1,Undibacterium luofuense strain LFS511W NODE_338_length_447_cov_1.437500,639
+NZ_JAGSPN010000027.1,Undibacterium luofuense strain LFS511W NODE_33_length_2039_cov_1.648013,640
+NZ_JAGSPN010000161.1,Undibacterium luofuense strain LFS511W NODE_340_length_444_cov_75.735016,641
+NZ_JAGSPN010000162.1,Undibacterium luofuense strain LFS511W NODE_342_length_444_cov_0.892744,642
+NZ_JAGSPN010000163.1,Undibacterium luofuense strain LFS511W NODE_345_length_443_cov_0.873418,643
+NZ_JAGSPN010000164.1,Undibacterium luofuense strain LFS511W NODE_348_length_441_cov_1.025478,644
+NZ_JAGSPN010000165.1,Undibacterium luofuense strain LFS511W NODE_350_length_441_cov_0.942675,645
+NZ_JAGSPN010000166.1,Undibacterium luofuense strain LFS511W NODE_352_length_439_cov_1.477564,646
+NZ_JAGSPN010000167.1,Undibacterium luofuense strain LFS511W NODE_353_length_438_cov_0.961415,647
+NZ_JAGSPN010000168.1,Undibacterium luofuense strain LFS511W NODE_354_length_438_cov_0.887460,648
+NZ_JAGSPN010000169.1,Undibacterium luofuense strain LFS511W NODE_355_length_435_cov_69.561688,649
+NZ_JAGSPN010000170.1,Undibacterium luofuense strain LFS511W NODE_359_length_435_cov_0.896104,650
+NZ_JAGSPN010000028.1,Undibacterium luofuense strain LFS511W NODE_35_length_2007_cov_37.633511,651
+NZ_JAGSPN010000171.1,Undibacterium luofuense strain LFS511W NODE_361_length_434_cov_1.276873,652
+NZ_JAGSPN010000172.1,Undibacterium luofuense strain LFS511W NODE_362_length_434_cov_1.048860,653
+NZ_JAGSPN010000173.1,Undibacterium luofuense strain LFS511W NODE_363_length_434_cov_0.840391,654
+NZ_JAGSPN010000174.1,Undibacterium luofuense strain LFS511W NODE_364_length_432_cov_0.885246,655
+NZ_JAGSPN010000175.1,Undibacterium luofuense strain LFS511W NODE_367_length_431_cov_1.059211,656
+NZ_JAGSPN010000176.1,Undibacterium luofuense strain LFS511W NODE_368_length_431_cov_0.983553,657
+NZ_JAGSPN010000177.1,Undibacterium luofuense strain LFS511W NODE_372_length_429_cov_0.990066,658
+NZ_JAGSPN010000178.1,Undibacterium luofuense strain LFS511W NODE_374_length_427_cov_0.996667,659
+NZ_JAGSPN010000179.1,Undibacterium luofuense strain LFS511W NODE_375_length_427_cov_0.843333,660
+NZ_JAGSPN010000180.1,Undibacterium luofuense strain LFS511W NODE_376_length_426_cov_1.000000,661
+NZ_JAGSPN010000181.1,Undibacterium luofuense strain LFS511W NODE_377_length_426_cov_0.896321,662
+NZ_JAGSPN010000182.1,Undibacterium luofuense strain LFS511W NODE_379_length_425_cov_0.906040,663
+NZ_JAGSPN010000183.1,Undibacterium luofuense strain LFS511W NODE_380_length_424_cov_82.212121,664
+NZ_JAGSPN010000184.1,Undibacterium luofuense strain LFS511W NODE_381_length_424_cov_1.023569,665
+NZ_JAGSPN010000185.1,Undibacterium luofuense strain LFS511W NODE_382_length_424_cov_1.006734,666
+NZ_JAGSPN010000186.1,Undibacterium luofuense strain LFS511W NODE_383_length_423_cov_0.932432,667
+NZ_JAGSPN010000187.1,Undibacterium luofuense strain LFS511W NODE_384_length_422_cov_30.118644,668
+NZ_JAGSPN010000188.1,Undibacterium luofuense strain LFS511W NODE_385_length_422_cov_1.169492,669
+NZ_JAGSPN010000189.1,Undibacterium luofuense strain LFS511W NODE_387_length_421_cov_0.938776,670
+NZ_JAGSPN010000190.1,Undibacterium luofuense strain LFS511W NODE_388_length_421_cov_0.782313,671
+NZ_JAGSPN010000191.1,Undibacterium luofuense strain LFS511W NODE_389_length_420_cov_101.508532,672
+NZ_JAGSPN010000029.1,Undibacterium luofuense strain LFS511W NODE_38_length_1844_cov_1.913221,673
+NZ_JAGSPN010000192.1,Undibacterium luofuense strain LFS511W NODE_392_length_419_cov_0.904110,674
+NZ_JAGSPN010000193.1,Undibacterium luofuense strain LFS511W NODE_394_length_418_cov_0.948454,675
+NZ_JAGSPN010000194.1,Undibacterium luofuense strain LFS511W NODE_395_length_417_cov_0.789655,676
+NZ_JAGSPN010000195.1,Undibacterium luofuense strain LFS511W NODE_396_length_416_cov_1.273356,677
+NZ_JAGSPN010000196.1,Undibacterium luofuense strain LFS511W NODE_397_length_416_cov_0.955017,678
+NZ_JAGSPN010000197.1,Undibacterium luofuense strain LFS511W NODE_398_length_416_cov_0.913495,679
+NZ_JAGSPN010000198.1,Undibacterium luofuense strain LFS511W NODE_399_length_416_cov_0.854671,680
+NZ_JAGSPN010000003.1,Undibacterium luofuense strain LFS511W NODE_3_length_348036_cov_37.622125,681
+NZ_JAGSPN010000199.1,Undibacterium luofuense strain LFS511W NODE_401_length_415_cov_1.156250,682
+NZ_JAGSPN010000200.1,Undibacterium luofuense strain LFS511W NODE_402_length_415_cov_0.958333,683
+NZ_JAGSPN010000201.1,Undibacterium luofuense strain LFS511W NODE_403_length_415_cov_0.878472,684
+NZ_JAGSPN010000202.1,Undibacterium luofuense strain LFS511W NODE_405_length_414_cov_0.961672,685
+NZ_JAGSPN010000203.1,Undibacterium luofuense strain LFS511W NODE_406_length_413_cov_0.965035,686
+NZ_JAGSPN010000204.1,Undibacterium luofuense strain LFS511W NODE_407_length_412_cov_0.859649,687
+NZ_JAGSPN010000205.1,Undibacterium luofuense strain LFS511W NODE_409_length_410_cov_1.137809,688
+NZ_JAGSPN010000206.1,Undibacterium luofuense strain LFS511W NODE_411_length_410_cov_0.901060,689
+NZ_JAGSPN010000207.1,Undibacterium luofuense strain LFS511W NODE_412_length_409_cov_1.631206,690
+NZ_JAGSPN010000208.1,Undibacterium luofuense strain LFS511W NODE_413_length_409_cov_1.031915,691
+NZ_JAGSPN010000209.1,Undibacterium luofuense strain LFS511W NODE_414_length_409_cov_0.975177,692
+NZ_JAGSPN010000210.1,Undibacterium luofuense strain LFS511W NODE_417_length_408_cov_1.145907,693
+NZ_JAGSPN010000211.1,Undibacterium luofuense strain LFS511W NODE_418_length_407_cov_0.985714,694
+NZ_JAGSPN010000212.1,Undibacterium luofuense strain LFS511W NODE_419_length_407_cov_0.835714,695
+NZ_JAGSPN010000213.1,Undibacterium luofuense strain LFS511W NODE_422_length_406_cov_1.071685,696
+NZ_JAGSPN010000214.1,Undibacterium luofuense strain LFS511W NODE_423_length_405_cov_32.338129,697
+NZ_JAGSPN010000215.1,Undibacterium luofuense strain LFS511W NODE_425_length_405_cov_1.158273,698
+NZ_JAGSPN010000216.1,Undibacterium luofuense strain LFS511W NODE_426_length_405_cov_0.992806,699
+NZ_JAGSPN010000217.1,Undibacterium luofuense strain LFS511W NODE_430_length_402_cov_0.989091,700
+NZ_JAGSPN010000218.1,Undibacterium luofuense strain LFS511W NODE_434_length_399_cov_0.930147,701
+NZ_JAGSPN010000219.1,Undibacterium luofuense strain LFS511W NODE_435_length_398_cov_1.188192,702
+NZ_JAGSPN010000220.1,Undibacterium luofuense strain LFS511W NODE_436_length_398_cov_1.018450,703
+NZ_JAGSPN010000221.1,Undibacterium luofuense strain LFS511W NODE_437_length_398_cov_1.018450,704
+NZ_JAGSPN010000222.1,Undibacterium luofuense strain LFS511W NODE_438_length_398_cov_1.018450,705
+NZ_JAGSPN010000223.1,Undibacterium luofuense strain LFS511W NODE_439_length_397_cov_1.522222,706
+NZ_JAGSPN010000224.1,Undibacterium luofuense strain LFS511W NODE_441_length_396_cov_1.111524,707
+NZ_JAGSPN010000225.1,Undibacterium luofuense strain LFS511W NODE_442_length_396_cov_1.022305,708
+NZ_JAGSPN010000226.1,Undibacterium luofuense strain LFS511W NODE_444_length_395_cov_76.365672,709
+NZ_JAGSPN010000227.1,Undibacterium luofuense strain LFS511W NODE_446_length_395_cov_0.873134,710
+NZ_JAGSPN010000228.1,Undibacterium luofuense strain LFS511W NODE_447_length_395_cov_0.858209,711
+NZ_JAGSPN010000229.1,Undibacterium luofuense strain LFS511W NODE_449_length_394_cov_48.513109,712
+NZ_JAGSPN010000230.1,Undibacterium luofuense strain LFS511W NODE_450_length_394_cov_36.318352,713
+NZ_JAGSPN010000231.1,Undibacterium luofuense strain LFS511W NODE_452_length_393_cov_1.037594,714
+NZ_JAGSPN010000232.1,Undibacterium luofuense strain LFS511W NODE_453_length_393_cov_0.951128,715
+NZ_JAGSPN010000233.1,Undibacterium luofuense strain LFS511W NODE_454_length_391_cov_1.132576,716
+NZ_JAGSPN010000234.1,Undibacterium luofuense strain LFS511W NODE_455_length_391_cov_0.946970,717
+NZ_JAGSPN010000235.1,Undibacterium luofuense strain LFS511W NODE_456_length_390_cov_0.961977,718
+NZ_JAGSPN010000236.1,Undibacterium luofuense strain LFS511W NODE_459_length_390_cov_0.844106,719
+NZ_JAGSPN010000237.1,Undibacterium luofuense strain LFS511W NODE_461_length_389_cov_1.053435,720
+NZ_JAGSPN010000238.1,Undibacterium luofuense strain LFS511W NODE_462_length_389_cov_0.965649,721
+NZ_JAGSPN010000239.1,Undibacterium luofuense strain LFS511W NODE_465_length_388_cov_0.881226,722
+NZ_JAGSPN010000240.1,Undibacterium luofuense strain LFS511W NODE_471_length_386_cov_0.888031,723
+NZ_JAGSPN010000241.1,Undibacterium luofuense strain LFS511W NODE_472_length_386_cov_0.776062,724
+NZ_JAGSPN010000242.1,Undibacterium luofuense strain LFS511W NODE_475_length_385_cov_1.135659,725
+NZ_JAGSPN010000243.1,Undibacterium luofuense strain LFS511W NODE_478_length_384_cov_1.252918,726
+NZ_JAGSPN010000244.1,Undibacterium luofuense strain LFS511W NODE_480_length_383_cov_1.257812,727
+NZ_JAGSPN010000245.1,Undibacterium luofuense strain LFS511W NODE_481_length_383_cov_0.988281,728
+NZ_JAGSPN010000246.1,Undibacterium luofuense strain LFS511W NODE_482_length_383_cov_0.898438,729
+NZ_JAGSPN010000247.1,Undibacterium luofuense strain LFS511W NODE_483_length_383_cov_0.898438,730
+NZ_JAGSPN010000248.1,Undibacterium luofuense strain LFS511W NODE_484_length_383_cov_0.898438,731
+NZ_JAGSPN010000249.1,Undibacterium luofuense strain LFS511W NODE_485_length_383_cov_0.882812,732
+NZ_JAGSPN010000250.1,Undibacterium luofuense strain LFS511W NODE_486_length_382_cov_1.254902,733
+NZ_JAGSPN010000251.1,Undibacterium luofuense strain LFS511W NODE_488_length_381_cov_127.082677,734
+NZ_JAGSPN010000252.1,Undibacterium luofuense strain LFS511W NODE_489_length_381_cov_1.358268,735
+NZ_JAGSPN010000253.1,Undibacterium luofuense strain LFS511W NODE_491_length_381_cov_1.118110,736
+NZ_JAGSPN010000254.1,Undibacterium luofuense strain LFS511W NODE_493_length_380_cov_1.000000,737
+NZ_JAGSPN010000255.1,Undibacterium luofuense strain LFS511W NODE_494_length_380_cov_0.992095,738
+NZ_JAGSPN010000256.1,Undibacterium luofuense strain LFS511W NODE_496_length_380_cov_0.897233,739
+NZ_JAGSPN010000257.1,Undibacterium luofuense strain LFS511W NODE_497_length_379_cov_1.003968,740
+NZ_JAGSPN010000258.1,Undibacterium luofuense strain LFS511W NODE_498_length_379_cov_1.003968,741
+NZ_JAGSPN010000004.1,Undibacterium luofuense strain LFS511W NODE_4_length_300857_cov_34.302687,742
+NZ_JAGSPN010000259.1,Undibacterium luofuense strain LFS511W NODE_501_length_378_cov_0.984064,743
+NZ_JAGSPN010000260.1,Undibacterium luofuense strain LFS511W NODE_503_length_377_cov_1.012000,744
+NZ_JAGSPN010000261.1,Undibacterium luofuense strain LFS511W NODE_504_length_377_cov_0.920000,745
+NZ_JAGSPN010000262.1,Undibacterium luofuense strain LFS511W NODE_507_length_375_cov_1.205645,746
+NZ_JAGSPN010000263.1,Undibacterium luofuense strain LFS511W NODE_508_length_375_cov_1.020161,747
+NZ_JAGSPN010000264.1,Undibacterium luofuense strain LFS511W NODE_509_length_375_cov_0.927419,748
+NZ_JAGSPN010000265.1,Undibacterium luofuense strain LFS511W NODE_512_length_374_cov_1.097166,749
+NZ_JAGSPN010000266.1,Undibacterium luofuense strain LFS511W NODE_515_length_373_cov_0.914634,750
+NZ_JAGSPN010000267.1,Undibacterium luofuense strain LFS511W NODE_516_length_372_cov_1.314286,751
+NZ_JAGSPN010000268.1,Undibacterium luofuense strain LFS511W NODE_517_length_372_cov_1.126531,752
+NZ_JAGSPN010000269.1,Undibacterium luofuense strain LFS511W NODE_519_length_371_cov_0.942623,753
+NZ_JAGSPN010000270.1,Undibacterium luofuense strain LFS511W NODE_520_length_370_cov_1.851852,754
+NZ_JAGSPN010000271.1,Undibacterium luofuense strain LFS511W NODE_521_length_370_cov_1.135802,755
+NZ_JAGSPN010000272.1,Undibacterium luofuense strain LFS511W NODE_524_length_369_cov_0.950413,756
+NZ_JAGSPN010000273.1,Undibacterium luofuense strain LFS511W NODE_525_length_369_cov_0.925620,757
+NZ_JAGSPN010000274.1,Undibacterium luofuense strain LFS511W NODE_526_length_369_cov_0.855372,758
+NZ_JAGSPN010000275.1,Undibacterium luofuense strain LFS511W NODE_528_length_368_cov_1.049793,759
+NZ_JAGSPN010000276.1,Undibacterium luofuense strain LFS511W NODE_529_length_368_cov_0.954357,760
+NZ_JAGSPN010000277.1,Undibacterium luofuense strain LFS511W NODE_532_length_367_cov_1.341667,761
+NZ_JAGSPN010000278.1,Undibacterium luofuense strain LFS511W NODE_534_length_367_cov_1.150000,762
+NZ_JAGSPN010000279.1,Undibacterium luofuense strain LFS511W NODE_535_length_367_cov_0.958333,763
+NZ_JAGSPN010000280.1,Undibacterium luofuense strain LFS511W NODE_536_length_367_cov_0.937500,764
+NZ_JAGSPN010000281.1,Undibacterium luofuense strain LFS511W NODE_537_length_367_cov_0.933333,765
+NZ_JAGSPN010000282.1,Undibacterium luofuense strain LFS511W NODE_539_length_365_cov_1.063025,766
+NZ_JAGSPN010000283.1,Undibacterium luofuense strain LFS511W NODE_540_length_365_cov_1.063025,767
+NZ_JAGSPN010000284.1,Undibacterium luofuense strain LFS511W NODE_542_length_364_cov_1.649789,768
+NZ_JAGSPN010000285.1,Undibacterium luofuense strain LFS511W NODE_545_length_364_cov_0.970464,769
+NZ_JAGSPN010000286.1,Undibacterium luofuense strain LFS511W NODE_546_length_364_cov_0.970464,770
+NZ_JAGSPN010000287.1,Undibacterium luofuense strain LFS511W NODE_547_length_364_cov_0.873418,771
+NZ_JAGSPN010000288.1,Undibacterium luofuense strain LFS511W NODE_548_length_363_cov_77.394068,772
+NZ_JAGSPN010000289.1,Undibacterium luofuense strain LFS511W NODE_550_length_363_cov_0.974576,773
+NZ_JAGSPN010000290.1,Undibacterium luofuense strain LFS511W NODE_551_length_363_cov_0.974576,774
+NZ_JAGSPN010000291.1,Undibacterium luofuense strain LFS511W NODE_553_length_362_cov_1.174468,775
+NZ_JAGSPN010000292.1,Undibacterium luofuense strain LFS511W NODE_554_length_362_cov_0.978723,776
+NZ_JAGSPN010000293.1,Undibacterium luofuense strain LFS511W NODE_555_length_362_cov_0.970213,777
+NZ_JAGSPN010000294.1,Undibacterium luofuense strain LFS511W NODE_556_length_362_cov_0.880851,778
+NZ_JAGSPN010000295.1,Undibacterium luofuense strain LFS511W NODE_558_length_361_cov_1.102564,779
+NZ_JAGSPN010000296.1,Undibacterium luofuense strain LFS511W NODE_559_length_361_cov_0.982906,780
+NZ_JAGSPN010000297.1,Undibacterium luofuense strain LFS511W NODE_561_length_361_cov_0.940171,781
+NZ_JAGSPN010000298.1,Undibacterium luofuense strain LFS511W NODE_562_length_361_cov_0.786325,782
+NZ_JAGSPN010000299.1,Undibacterium luofuense strain LFS511W NODE_563_length_360_cov_1.480687,783
+NZ_JAGSPN010000300.1,Undibacterium luofuense strain LFS511W NODE_565_length_360_cov_0.987124,784
+NZ_JAGSPN010000301.1,Undibacterium luofuense strain LFS511W NODE_566_length_360_cov_0.987124,785
+NZ_JAGSPN010000302.1,Undibacterium luofuense strain LFS511W NODE_568_length_359_cov_1.150862,786
+NZ_JAGSPN010000303.1,Undibacterium luofuense strain LFS511W NODE_569_length_359_cov_0.991379,787
+NZ_JAGSPN010000304.1,Undibacterium luofuense strain LFS511W NODE_570_length_359_cov_0.978448,788
+NZ_JAGSPN010000305.1,Undibacterium luofuense strain LFS511W NODE_571_length_359_cov_0.939655,789
+NZ_JAGSPN010000306.1,Undibacterium luofuense strain LFS511W NODE_572_length_358_cov_35.974026,790
+NZ_JAGSPN010000307.1,Undibacterium luofuense strain LFS511W NODE_573_length_358_cov_1.692641,791
+NZ_JAGSPN010000308.1,Undibacterium luofuense strain LFS511W NODE_577_length_358_cov_1.142857,792
+NZ_JAGSPN010000309.1,Undibacterium luofuense strain LFS511W NODE_578_length_358_cov_1.090909,793
+NZ_JAGSPN010000310.1,Undibacterium luofuense strain LFS511W NODE_579_length_358_cov_0.896104,794
+NZ_JAGSPN010000311.1,Undibacterium luofuense strain LFS511W NODE_580_length_358_cov_0.896104,795
+NZ_JAGSPN010000312.1,Undibacterium luofuense strain LFS511W NODE_582_length_357_cov_1.100000,796
+NZ_JAGSPN010000313.1,Undibacterium luofuense strain LFS511W NODE_583_length_357_cov_1.100000,797
+NZ_JAGSPN010000314.1,Undibacterium luofuense strain LFS511W NODE_585_length_357_cov_1.095652,798
+NZ_JAGSPN010000315.1,Undibacterium luofuense strain LFS511W NODE_587_length_356_cov_1.606987,799
+NZ_JAGSPN010000316.1,Undibacterium luofuense strain LFS511W NODE_588_length_356_cov_1.205240,800
+NZ_JAGSPN010000317.1,Undibacterium luofuense strain LFS511W NODE_589_length_356_cov_1.205240,801
+NZ_JAGSPN010000030.1,Undibacterium luofuense strain LFS511W NODE_58_length_1384_cov_52.083532,802
+NZ_JAGSPN010000318.1,Undibacterium luofuense strain LFS511W NODE_590_length_356_cov_1.061135,803
+NZ_JAGSPN010000319.1,Undibacterium luofuense strain LFS511W NODE_591_length_356_cov_1.004367,804
+NZ_JAGSPN010000320.1,Undibacterium luofuense strain LFS511W NODE_592_length_356_cov_0.903930,805
+NZ_JAGSPN010000321.1,Undibacterium luofuense strain LFS511W NODE_594_length_356_cov_0.803493,806
+NZ_JAGSPN010000322.1,Undibacterium luofuense strain LFS511W NODE_597_length_355_cov_1.109649,807
+NZ_JAGSPN010000323.1,Undibacterium luofuense strain LFS511W NODE_598_length_355_cov_1.008772,808
+NZ_JAGSPN010000324.1,Undibacterium luofuense strain LFS511W NODE_599_length_355_cov_1.008772,809
+NZ_JAGSPN010000005.1,Undibacterium luofuense strain LFS511W NODE_5_length_279712_cov_49.352297,810
+NZ_JAGSPN010000325.1,Undibacterium luofuense strain LFS511W NODE_601_length_355_cov_0.907895,811
+NZ_JAGSPN010000326.1,Undibacterium luofuense strain LFS511W NODE_604_length_354_cov_1.114537,812
+NZ_JAGSPN010000327.1,Undibacterium luofuense strain LFS511W NODE_605_length_353_cov_86.628319,813
+NZ_JAGSPN010000328.1,Undibacterium luofuense strain LFS511W NODE_606_length_353_cov_37.079646,814
+NZ_JAGSPN010000329.1,Undibacterium luofuense strain LFS511W NODE_607_length_353_cov_1.221239,815
+NZ_JAGSPN010000330.1,Undibacterium luofuense strain LFS511W NODE_608_length_353_cov_1.022124,816
+NZ_JAGSPN010000331.1,Undibacterium luofuense strain LFS511W NODE_609_length_353_cov_1.017699,817
+NZ_JAGSPN010000332.1,Undibacterium luofuense strain LFS511W NODE_610_length_353_cov_1.017699,818
+NZ_JAGSPN010000333.1,Undibacterium luofuense strain LFS511W NODE_613_length_352_cov_1.124444,819
+NZ_JAGSPN010000334.1,Undibacterium luofuense strain LFS511W NODE_615_length_352_cov_1.022222,820
+NZ_JAGSPN010000335.1,Undibacterium luofuense strain LFS511W NODE_616_length_352_cov_1.022222,821
+NZ_JAGSPN010000336.1,Undibacterium luofuense strain LFS511W NODE_617_length_352_cov_0.920000,822
+NZ_JAGSPN010000337.1,Undibacterium luofuense strain LFS511W NODE_619_length_352_cov_0.817778,823
+NZ_JAGSPN010000338.1,Undibacterium luofuense strain LFS511W NODE_623_length_351_cov_1.294643,824
+NZ_JAGSPN010000339.1,Undibacterium luofuense strain LFS511W NODE_624_length_351_cov_1.232143,825
+NZ_JAGSPN010000340.1,Undibacterium luofuense strain LFS511W NODE_625_length_351_cov_1.026786,826
+NZ_JAGSPN010000341.1,Undibacterium luofuense strain LFS511W NODE_628_length_350_cov_1.134529,827
+NZ_JAGSPN010000342.1,Undibacterium luofuense strain LFS511W NODE_629_length_350_cov_1.031390,828
+NZ_JAGSPN010000343.1,Undibacterium luofuense strain LFS511W NODE_630_length_350_cov_1.031390,829
+NZ_JAGSPN010000344.1,Undibacterium luofuense strain LFS511W NODE_631_length_350_cov_1.031390,830
+NZ_JAGSPN010000345.1,Undibacterium luofuense strain LFS511W NODE_633_length_350_cov_1.004484,831
+NZ_JAGSPN010000346.1,Undibacterium luofuense strain LFS511W NODE_634_length_350_cov_0.986547,832
+NZ_JAGSPN010000347.1,Undibacterium luofuense strain LFS511W NODE_635_length_349_cov_0.932432,833
+NZ_JAGSPN010000348.1,Undibacterium luofuense strain LFS511W NODE_640_length_347_cov_1.359091,834
+NZ_JAGSPN010000349.1,Undibacterium luofuense strain LFS511W NODE_641_length_347_cov_1.045455,835
+NZ_JAGSPN010000350.1,Undibacterium luofuense strain LFS511W NODE_642_length_347_cov_1.036364,836
+NZ_JAGSPN010000351.1,Undibacterium luofuense strain LFS511W NODE_643_length_347_cov_1.031818,837
+NZ_JAGSPN010000352.1,Undibacterium luofuense strain LFS511W NODE_644_length_347_cov_0.836364,838
+NZ_JAGSPN010000353.1,Undibacterium luofuense strain LFS511W NODE_647_length_346_cov_1.296804,839
+NZ_JAGSPN010000354.1,Undibacterium luofuense strain LFS511W NODE_652_length_346_cov_0.812785,840
+NZ_JAGSPN010000355.1,Undibacterium luofuense strain LFS511W NODE_654_length_345_cov_1.055046,841
+NZ_JAGSPN010000356.1,Undibacterium luofuense strain LFS511W NODE_655_length_344_cov_1.271889,842
+NZ_JAGSPN010000357.1,Undibacterium luofuense strain LFS511W NODE_658_length_344_cov_0.967742,843
+NZ_JAGSPN010000358.1,Undibacterium luofuense strain LFS511W NODE_659_length_344_cov_0.953917,844
+NZ_JAGSPN010000359.1,Undibacterium luofuense strain LFS511W NODE_660_length_344_cov_0.953917,845
+NZ_JAGSPN010000360.1,Undibacterium luofuense strain LFS511W NODE_661_length_344_cov_0.953917,846
+NZ_JAGSPN010000361.1,Undibacterium luofuense strain LFS511W NODE_664_length_343_cov_1.171296,847
+NZ_JAGSPN010000362.1,Undibacterium luofuense strain LFS511W NODE_668_length_342_cov_1.037209,848
+NZ_JAGSPN010000363.1,Undibacterium luofuense strain LFS511W NODE_669_length_342_cov_0.962791,849
+NZ_JAGSPN010000364.1,Undibacterium luofuense strain LFS511W NODE_670_length_342_cov_0.962791,850
+NZ_JAGSPN010000365.1,Undibacterium luofuense strain LFS511W NODE_671_length_342_cov_0.962791,851
+NZ_JAGSPN010000366.1,Undibacterium luofuense strain LFS511W NODE_676_length_341_cov_0.967290,852
+NZ_JAGSPN010000367.1,Undibacterium luofuense strain LFS511W NODE_677_length_340_cov_1.187793,853
+NZ_JAGSPN010000368.1,Undibacterium luofuense strain LFS511W NODE_678_length_340_cov_1.079812,854
+NZ_JAGSPN010000369.1,Undibacterium luofuense strain LFS511W NODE_679_length_340_cov_0.957746,855
+NZ_JAGSPN010000370.1,Undibacterium luofuense strain LFS511W NODE_680_length_340_cov_0.863850,856
+NZ_JAGSPN010000371.1,Undibacterium luofuense strain LFS511W NODE_681_length_340_cov_0.863850,857
+NZ_JAGSPN010000372.1,Undibacterium luofuense strain LFS511W NODE_682_length_339_cov_1.509434,858
+NZ_JAGSPN010000373.1,Undibacterium luofuense strain LFS511W NODE_683_length_339_cov_1.386792,859
+NZ_JAGSPN010000374.1,Undibacterium luofuense strain LFS511W NODE_684_length_339_cov_1.160377,860
+NZ_JAGSPN010000375.1,Undibacterium luofuense strain LFS511W NODE_685_length_339_cov_1.084906,861
+NZ_JAGSPN010000376.1,Undibacterium luofuense strain LFS511W NODE_687_length_339_cov_1.061321,862
+NZ_JAGSPN010000377.1,Undibacterium luofuense strain LFS511W NODE_688_length_339_cov_0.867925,863
+NZ_JAGSPN010000378.1,Undibacterium luofuense strain LFS511W NODE_690_length_338_cov_0.981043,864
+NZ_JAGSPN010000379.1,Undibacterium luofuense strain LFS511W NODE_693_length_338_cov_0.872038,865
+NZ_JAGSPN010000380.1,Undibacterium luofuense strain LFS511W NODE_695_length_337_cov_1.095238,866
+NZ_JAGSPN010000381.1,Undibacterium luofuense strain LFS511W NODE_696_length_337_cov_1.095238,867
+NZ_JAGSPN010000382.1,Undibacterium luofuense strain LFS511W NODE_697_length_337_cov_0.985714,868
+NZ_JAGSPN010000383.1,Undibacterium luofuense strain LFS511W NODE_698_length_337_cov_0.876190,869
+NZ_JAGSPN010000006.1,Undibacterium luofuense strain LFS511W NODE_6_length_258085_cov_45.773327,870
+NZ_JAGSPN010000384.1,Undibacterium luofuense strain LFS511W NODE_700_length_336_cov_0.990431,871
+NZ_JAGSPN010000385.1,Undibacterium luofuense strain LFS511W NODE_701_length_336_cov_0.990431,872
+NZ_JAGSPN010000386.1,Undibacterium luofuense strain LFS511W NODE_702_length_336_cov_0.976077,873
+NZ_JAGSPN010000387.1,Undibacterium luofuense strain LFS511W NODE_703_length_336_cov_0.880383,874
+NZ_JAGSPN010000388.1,Undibacterium luofuense strain LFS511W NODE_704_length_336_cov_0.880383,875
+NZ_JAGSPN010000389.1,Undibacterium luofuense strain LFS511W NODE_706_length_335_cov_1.548077,876
+NZ_JAGSPN010000390.1,Undibacterium luofuense strain LFS511W NODE_707_length_335_cov_1.326923,877
+NZ_JAGSPN010000391.1,Undibacterium luofuense strain LFS511W NODE_711_length_335_cov_0.995192,878
+NZ_JAGSPN010000392.1,Undibacterium luofuense strain LFS511W NODE_712_length_335_cov_0.884615,879
+NZ_JAGSPN010000393.1,Undibacterium luofuense strain LFS511W NODE_713_length_335_cov_0.884615,880
+NZ_JAGSPN010000394.1,Undibacterium luofuense strain LFS511W NODE_714_length_335_cov_0.884615,881
+NZ_JAGSPN010000395.1,Undibacterium luofuense strain LFS511W NODE_716_length_334_cov_1.000000,882
+NZ_JAGSPN010000396.1,Undibacterium luofuense strain LFS511W NODE_717_length_334_cov_0.888889,883
+NZ_JAGSPN010000397.1,Undibacterium luofuense strain LFS511W NODE_718_length_333_cov_1.116505,884
+NZ_JAGSPN010000031.1,Undibacterium luofuense strain LFS511W NODE_71_length_1220_cov_3.029277,885
+NZ_JAGSPN010000398.1,Undibacterium luofuense strain LFS511W NODE_720_length_333_cov_0.985437,886
+NZ_JAGSPN010000399.1,Undibacterium luofuense strain LFS511W NODE_721_length_333_cov_0.893204,887
+NZ_JAGSPN010000400.1,Undibacterium luofuense strain LFS511W NODE_722_length_333_cov_0.893204,888
+NZ_JAGSPN010000401.1,Undibacterium luofuense strain LFS511W NODE_723_length_332_cov_1.234146,889
+NZ_JAGSPN010000402.1,Undibacterium luofuense strain LFS511W NODE_724_length_332_cov_1.121951,890
+NZ_JAGSPN010000403.1,Undibacterium luofuense strain LFS511W NODE_725_length_332_cov_0.897561,891
+NZ_JAGSPN010000404.1,Undibacterium luofuense strain LFS511W NODE_726_length_332_cov_0.897561,892
+NZ_JAGSPN010000405.1,Undibacterium luofuense strain LFS511W NODE_727_length_332_cov_0.785366,893
+NZ_JAGSPN010000406.1,Undibacterium luofuense strain LFS511W NODE_729_length_331_cov_2.274510,894
+NZ_JAGSPN010000407.1,Undibacterium luofuense strain LFS511W NODE_731_length_331_cov_1.078431,895
+NZ_JAGSPN010000408.1,Undibacterium luofuense strain LFS511W NODE_732_length_331_cov_1.014706,896
+NZ_JAGSPN010000409.1,Undibacterium luofuense strain LFS511W NODE_733_length_331_cov_1.014706,897
+NZ_JAGSPN010000410.1,Undibacterium luofuense strain LFS511W NODE_734_length_331_cov_0.901961,898
+NZ_JAGSPN010000411.1,Undibacterium luofuense strain LFS511W NODE_735_length_331_cov_0.901961,899
+NZ_JAGSPN010000412.1,Undibacterium luofuense strain LFS511W NODE_737_length_330_cov_1.812808,900
+NZ_JAGSPN010000413.1,Undibacterium luofuense strain LFS511W NODE_738_length_330_cov_1.246305,901
+NZ_JAGSPN010000414.1,Undibacterium luofuense strain LFS511W NODE_739_length_330_cov_1.073892,902
+NZ_JAGSPN010000032.1,Undibacterium luofuense strain LFS511W NODE_73_length_1206_cov_38.572753,903
+NZ_JAGSPN010000415.1,Undibacterium luofuense strain LFS511W NODE_740_length_330_cov_1.054187,904
+NZ_JAGSPN010000416.1,Undibacterium luofuense strain LFS511W NODE_741_length_330_cov_0.980296,905
+NZ_JAGSPN010000417.1,Undibacterium luofuense strain LFS511W NODE_742_length_330_cov_0.906404,906
+NZ_JAGSPN010000418.1,Undibacterium luofuense strain LFS511W NODE_747_length_328_cov_1.144279,907
+NZ_JAGSPN010000419.1,Undibacterium luofuense strain LFS511W NODE_749_length_328_cov_1.129353,908
+NZ_JAGSPN010000420.1,Undibacterium luofuense strain LFS511W NODE_752_length_328_cov_0.915423,909
+NZ_JAGSPN010000421.1,Undibacterium luofuense strain LFS511W NODE_754_length_327_cov_1.035000,910
+NZ_JAGSPN010000422.1,Undibacterium luofuense strain LFS511W NODE_758_length_326_cov_1.155779,911
+NZ_JAGSPN010000423.1,Undibacterium luofuense strain LFS511W NODE_762_length_325_cov_1.626263,912
+NZ_JAGSPN010000424.1,Undibacterium luofuense strain LFS511W NODE_763_length_325_cov_1.464646,913
+NZ_JAGSPN010000425.1,Undibacterium luofuense strain LFS511W NODE_764_length_325_cov_1.393939,914
+NZ_JAGSPN010000426.1,Undibacterium luofuense strain LFS511W NODE_766_length_325_cov_1.045455,915
+NZ_JAGSPN010000427.1,Undibacterium luofuense strain LFS511W NODE_767_length_325_cov_0.929293,916
+NZ_JAGSPN010000428.1,Undibacterium luofuense strain LFS511W NODE_768_length_325_cov_0.929293,917
+NZ_JAGSPN010000429.1,Undibacterium luofuense strain LFS511W NODE_769_length_324_cov_1.167513,918
+NZ_JAGSPN010000033.1,Undibacterium luofuense strain LFS511W NODE_76_length_1134_cov_5.082341,919
+NZ_JAGSPN010000430.1,Undibacterium luofuense strain LFS511W NODE_770_length_324_cov_1.167513,920
+NZ_JAGSPN010000431.1,Undibacterium luofuense strain LFS511W NODE_772_length_324_cov_1.050761,921
+NZ_JAGSPN010000432.1,Undibacterium luofuense strain LFS511W NODE_773_length_324_cov_0.934010,922
+NZ_JAGSPN010000433.1,Undibacterium luofuense strain LFS511W NODE_775_length_324_cov_0.923858,923
+NZ_JAGSPN010000434.1,Undibacterium luofuense strain LFS511W NODE_776_length_324_cov_0.857868,924
+NZ_JAGSPN010000435.1,Undibacterium luofuense strain LFS511W NODE_777_length_323_cov_1.173469,925
+NZ_JAGSPN010000436.1,Undibacterium luofuense strain LFS511W NODE_778_length_323_cov_0.938776,926
+NZ_JAGSPN010000437.1,Undibacterium luofuense strain LFS511W NODE_780_length_322_cov_1.415385,927
+NZ_JAGSPN010000438.1,Undibacterium luofuense strain LFS511W NODE_782_length_322_cov_1.179487,928
+NZ_JAGSPN010000439.1,Undibacterium luofuense strain LFS511W NODE_783_length_322_cov_0.825641,929
+NZ_JAGSPN010000440.1,Undibacterium luofuense strain LFS511W NODE_785_length_321_cov_1.103093,930
+NZ_JAGSPN010000441.1,Undibacterium luofuense strain LFS511W NODE_786_length_321_cov_1.067010,931
+NZ_JAGSPN010000442.1,Undibacterium luofuense strain LFS511W NODE_787_length_321_cov_1.067010,932
+NZ_JAGSPN010000443.1,Undibacterium luofuense strain LFS511W NODE_788_length_321_cov_0.948454,933
+NZ_JAGSPN010000444.1,Undibacterium luofuense strain LFS511W NODE_789_length_321_cov_0.948454,934
+NZ_JAGSPN010000445.1,Undibacterium luofuense strain LFS511W NODE_790_length_320_cov_1.072539,935
+NZ_JAGSPN010000446.1,Undibacterium luofuense strain LFS511W NODE_791_length_320_cov_1.072539,936
+NZ_JAGSPN010000447.1,Undibacterium luofuense strain LFS511W NODE_793_length_320_cov_0.922280,937
+NZ_JAGSPN010000448.1,Undibacterium luofuense strain LFS511W NODE_794_length_319_cov_1.197917,938
+NZ_JAGSPN010000449.1,Undibacterium luofuense strain LFS511W NODE_795_length_319_cov_1.197917,939
+NZ_JAGSPN010000450.1,Undibacterium luofuense strain LFS511W NODE_796_length_319_cov_1.078125,940
+NZ_JAGSPN010000451.1,Undibacterium luofuense strain LFS511W NODE_797_length_318_cov_1.324607,941
+NZ_JAGSPN010000034.1,Undibacterium luofuense strain LFS511W NODE_79_length_1133_cov_108.873757,942
+NZ_JAGSPN010000007.1,Undibacterium luofuense strain LFS511W NODE_7_length_205602_cov_36.448634,943
+NZ_JAGSPN010000452.1,Undibacterium luofuense strain LFS511W NODE_800_length_318_cov_1.083770,944
+NZ_JAGSPN010000453.1,Undibacterium luofuense strain LFS511W NODE_801_length_318_cov_1.083770,945
+NZ_JAGSPN010000454.1,Undibacterium luofuense strain LFS511W NODE_802_length_318_cov_0.963351,946
+NZ_JAGSPN010000455.1,Undibacterium luofuense strain LFS511W NODE_803_length_318_cov_0.963351,947
+NZ_JAGSPN010000456.1,Undibacterium luofuense strain LFS511W NODE_805_length_317_cov_1.089474,948
+NZ_JAGSPN010000457.1,Undibacterium luofuense strain LFS511W NODE_807_length_317_cov_0.968421,949
+NZ_JAGSPN010000458.1,Undibacterium luofuense strain LFS511W NODE_808_length_317_cov_0.757895,950
+NZ_JAGSPN010000459.1,Undibacterium luofuense strain LFS511W NODE_811_length_316_cov_0.973545,951
+NZ_JAGSPN010000460.1,Undibacterium luofuense strain LFS511W NODE_812_length_316_cov_0.973545,952
+NZ_JAGSPN010000461.1,Undibacterium luofuense strain LFS511W NODE_813_length_316_cov_0.973545,953
+NZ_JAGSPN010000462.1,Undibacterium luofuense strain LFS511W NODE_815_length_315_cov_1.223404,954
+NZ_JAGSPN010000463.1,Undibacterium luofuense strain LFS511W NODE_817_length_314_cov_0.983957,955
+NZ_JAGSPN010000464.1,Undibacterium luofuense strain LFS511W NODE_818_length_314_cov_0.983957,956
+NZ_JAGSPN010000465.1,Undibacterium luofuense strain LFS511W NODE_819_length_314_cov_0.983957,957
+NZ_JAGSPN010000466.1,Undibacterium luofuense strain LFS511W NODE_821_length_313_cov_1.102151,958
+NZ_JAGSPN010000467.1,Undibacterium luofuense strain LFS511W NODE_822_length_313_cov_0.940860,959
+NZ_JAGSPN010000468.1,Undibacterium luofuense strain LFS511W NODE_823_length_313_cov_0.924731,960
+NZ_JAGSPN010000469.1,Undibacterium luofuense strain LFS511W NODE_824_length_312_cov_1.118919,961
+NZ_JAGSPN010000470.1,Undibacterium luofuense strain LFS511W NODE_825_length_312_cov_1.118919,962
+NZ_JAGSPN010000471.1,Undibacterium luofuense strain LFS511W NODE_826_length_312_cov_0.994595,963
+NZ_JAGSPN010000472.1,Undibacterium luofuense strain LFS511W NODE_827_length_311_cov_1.375000,964
+NZ_JAGSPN010000473.1,Undibacterium luofuense strain LFS511W NODE_828_length_311_cov_1.250000,965
+NZ_JAGSPN010000474.1,Undibacterium luofuense strain LFS511W NODE_829_length_311_cov_1.125000,966
+NZ_JAGSPN010000475.1,Undibacterium luofuense strain LFS511W NODE_830_length_311_cov_1.000000,967
+NZ_JAGSPN010000476.1,Undibacterium luofuense strain LFS511W NODE_831_length_311_cov_1.000000,968
+NZ_JAGSPN010000477.1,Undibacterium luofuense strain LFS511W NODE_832_length_311_cov_1.000000,969
+NZ_JAGSPN010000478.1,Undibacterium luofuense strain LFS511W NODE_833_length_311_cov_1.000000,970
+NZ_JAGSPN010000479.1,Undibacterium luofuense strain LFS511W NODE_834_length_311_cov_1.000000,971
+NZ_JAGSPN010000480.1,Undibacterium luofuense strain LFS511W NODE_839_length_310_cov_1.256831,972
+NZ_JAGSPN010000481.1,Undibacterium luofuense strain LFS511W NODE_840_length_310_cov_1.131148,973
+NZ_JAGSPN010000482.1,Undibacterium luofuense strain LFS511W NODE_841_length_310_cov_1.005464,974
+NZ_JAGSPN010000483.1,Undibacterium luofuense strain LFS511W NODE_842_length_310_cov_0.879781,975
+NZ_JAGSPN010000484.1,Undibacterium luofuense strain LFS511W NODE_843_length_309_cov_1.390110,976
+NZ_JAGSPN010000485.1,Undibacterium luofuense strain LFS511W NODE_845_length_309_cov_1.010989,977
+NZ_JAGSPN010000486.1,Undibacterium luofuense strain LFS511W NODE_846_length_309_cov_1.010989,978
+NZ_JAGSPN010000487.1,Undibacterium luofuense strain LFS511W NODE_849_length_309_cov_0.884615,979
+NZ_JAGSPN010000488.1,Undibacterium luofuense strain LFS511W NODE_850_length_309_cov_0.884615,980
+NZ_JAGSPN010000489.1,Undibacterium luofuense strain LFS511W NODE_851_length_308_cov_1.110497,981
+NZ_JAGSPN010000490.1,Undibacterium luofuense strain LFS511W NODE_852_length_308_cov_1.088398,982
+NZ_JAGSPN010000491.1,Undibacterium luofuense strain LFS511W NODE_853_length_308_cov_1.016575,983
+NZ_JAGSPN010000492.1,Undibacterium luofuense strain LFS511W NODE_856_length_308_cov_0.889503,984
+NZ_JAGSPN010000493.1,Undibacterium luofuense strain LFS511W NODE_857_length_308_cov_0.889503,985
+NZ_JAGSPN010000035.1,Undibacterium luofuense strain LFS511W NODE_85_length_1046_cov_6.983678,986
+NZ_JAGSPN010000494.1,Undibacterium luofuense strain LFS511W NODE_860_length_308_cov_0.762431,987
+NZ_JAGSPN010000495.1,Undibacterium luofuense strain LFS511W NODE_861_length_307_cov_1.788889,988
+NZ_JAGSPN010000496.1,Undibacterium luofuense strain LFS511W NODE_863_length_307_cov_0.988889,989
+NZ_JAGSPN010000497.1,Undibacterium luofuense strain LFS511W NODE_864_length_307_cov_0.894444,990
+NZ_JAGSPN010000498.1,Undibacterium luofuense strain LFS511W NODE_867_length_306_cov_1.284916,991
+NZ_JAGSPN010000499.1,Undibacterium luofuense strain LFS511W NODE_868_length_306_cov_1.156425,992
+NZ_JAGSPN010000500.1,Undibacterium luofuense strain LFS511W NODE_869_length_306_cov_1.027933,993
+NZ_JAGSPN010000501.1,Undibacterium luofuense strain LFS511W NODE_871_length_306_cov_0.899441,994
+NZ_JAGSPN010000502.1,Undibacterium luofuense strain LFS511W NODE_872_length_306_cov_0.810056,995
+NZ_JAGSPN010000503.1,Undibacterium luofuense strain LFS511W NODE_873_length_305_cov_2.101124,996
+NZ_JAGSPN010000504.1,Undibacterium luofuense strain LFS511W NODE_877_length_305_cov_1.033708,997
+NZ_JAGSPN010000505.1,Undibacterium luofuense strain LFS511W NODE_880_length_305_cov_0.904494,998
+NZ_JAGSPN010000506.1,Undibacterium luofuense strain LFS511W NODE_882_length_305_cov_0.904494,999
+NZ_JAGSPN010000507.1,Undibacterium luofuense strain LFS511W NODE_883_length_305_cov_0.904494,1000
+NZ_JAGSPN010000508.1,Undibacterium luofuense strain LFS511W NODE_884_length_305_cov_0.775281,1001
+NZ_JAGSPN010000509.1,Undibacterium luofuense strain LFS511W NODE_885_length_304_cov_1.672316,1002
+NZ_JAGSPN010000510.1,Undibacterium luofuense strain LFS511W NODE_886_length_304_cov_1.169492,1003
+NZ_JAGSPN010000511.1,Undibacterium luofuense strain LFS511W NODE_887_length_304_cov_1.169492,1004
+NZ_JAGSPN010000512.1,Undibacterium luofuense strain LFS511W NODE_888_length_304_cov_0.909605,1005
+NZ_JAGSPN010000513.1,Undibacterium luofuense strain LFS511W NODE_889_length_303_cov_1.045455,1006
+NZ_JAGSPN010000036.1,Undibacterium luofuense strain LFS511W NODE_88_length_1037_cov_76.480220,1007
+NZ_JAGSPN010000514.1,Undibacterium luofuense strain LFS511W NODE_890_length_303_cov_0.914773,1008
+NZ_JAGSPN010000515.1,Undibacterium luofuense strain LFS511W NODE_893_length_302_cov_1.708571,1009
+NZ_JAGSPN010000516.1,Undibacterium luofuense strain LFS511W NODE_894_length_302_cov_1.051429,1010
+NZ_JAGSPN010000517.1,Undibacterium luofuense strain LFS511W NODE_895_length_302_cov_0.920000,1011
+NZ_JAGSPN010000518.1,Undibacterium luofuense strain LFS511W NODE_897_length_301_cov_1.321839,1012
+NZ_JAGSPN010000008.1,Undibacterium luofuense strain LFS511W NODE_8_length_193796_cov_41.409301,1013
+NZ_JAGSPN010000519.1,Undibacterium luofuense strain LFS511W NODE_901_length_301_cov_1.057471,1014
+NZ_JAGSPN010000520.1,Undibacterium luofuense strain LFS511W NODE_904_length_301_cov_1.051724,1015
+NZ_JAGSPN010000521.1,Undibacterium luofuense strain LFS511W NODE_905_length_301_cov_0.925287,1016
+NZ_JAGSPN010000522.1,Undibacterium luofuense strain LFS511W NODE_907_length_301_cov_0.925287,1017
+NZ_JAGSPN010000523.1,Undibacterium luofuense strain LFS511W NODE_908_length_301_cov_0.925287,1018
+NZ_JAGSPN010000524.1,Undibacterium luofuense strain LFS511W NODE_909_length_301_cov_0.908046,1019
+NZ_JAGSPN010000525.1,Undibacterium luofuense strain LFS511W NODE_910_length_301_cov_0.793103,1020
+NZ_JAGSPN010000526.1,Undibacterium luofuense strain LFS511W NODE_911_length_300_cov_35.763006,1021
+NZ_JAGSPN010000527.1,Undibacterium luofuense strain LFS511W NODE_915_length_300_cov_0.930636,1022
+NZ_JAGSPN010000528.1,Undibacterium luofuense strain LFS511W NODE_916_length_300_cov_0.930636,1023
+NZ_JAGSPN010000529.1,Undibacterium luofuense strain LFS511W NODE_917_length_300_cov_0.930636,1024
+NZ_JAGSPN010000530.1,Undibacterium luofuense strain LFS511W NODE_918_length_300_cov_0.786127,1025
+NZ_JAGSPN010000531.1,Undibacterium luofuense strain LFS511W NODE_919_length_299_cov_1.069767,1026
+NZ_JAGSPN010000037.1,Undibacterium luofuense strain LFS511W NODE_91_length_1018_cov_1.991021,1027
+NZ_JAGSPN010000532.1,Undibacterium luofuense strain LFS511W NODE_920_length_299_cov_1.069767,1028
+NZ_JAGSPN010000533.1,Undibacterium luofuense strain LFS511W NODE_921_length_299_cov_1.069767,1029
+NZ_JAGSPN010000534.1,Undibacterium luofuense strain LFS511W NODE_922_length_299_cov_1.069767,1030
+NZ_JAGSPN010000535.1,Undibacterium luofuense strain LFS511W NODE_923_length_299_cov_0.936047,1031
+NZ_JAGSPN010000536.1,Undibacterium luofuense strain LFS511W NODE_925_length_299_cov_0.936047,1032
+NZ_JAGSPN010000537.1,Undibacterium luofuense strain LFS511W NODE_927_length_298_cov_1.345029,1033
+NZ_JAGSPN010000538.1,Undibacterium luofuense strain LFS511W NODE_928_length_298_cov_1.204678,1034
+NZ_JAGSPN010000539.1,Undibacterium luofuense strain LFS511W NODE_929_length_298_cov_1.076023,1035
+NZ_JAGSPN010000540.1,Undibacterium luofuense strain LFS511W NODE_930_length_298_cov_1.076023,1036
+NZ_JAGSPN010000541.1,Undibacterium luofuense strain LFS511W NODE_931_length_298_cov_0.941520,1037
+NZ_JAGSPN010000542.1,Undibacterium luofuense strain LFS511W NODE_932_length_298_cov_0.941520,1038
+NZ_JAGSPN010000543.1,Undibacterium luofuense strain LFS511W NODE_933_length_298_cov_0.771930,1039
+NZ_JAGSPN010000544.1,Undibacterium luofuense strain LFS511W NODE_934_length_297_cov_1.352941,1040
+NZ_JAGSPN010000545.1,Undibacterium luofuense strain LFS511W NODE_935_length_297_cov_1.217647,1041
+NZ_JAGSPN010000546.1,Undibacterium luofuense strain LFS511W NODE_936_length_297_cov_1.129412,1042
+NZ_JAGSPN010000547.1,Undibacterium luofuense strain LFS511W NODE_937_length_297_cov_1.082353,1043
+NZ_JAGSPN010000548.1,Undibacterium luofuense strain LFS511W NODE_938_length_297_cov_1.029412,1044
+NZ_JAGSPN010000549.1,Undibacterium luofuense strain LFS511W NODE_939_length_297_cov_0.947059,1045
+NZ_JAGSPN010000550.1,Undibacterium luofuense strain LFS511W NODE_940_length_297_cov_0.947059,1046
+NZ_JAGSPN010000551.1,Undibacterium luofuense strain LFS511W NODE_941_length_297_cov_0.811765,1047
+NZ_JAGSPN010000552.1,Undibacterium luofuense strain LFS511W NODE_942_length_297_cov_0.811765,1048
+NZ_JAGSPN010000553.1,Undibacterium luofuense strain LFS511W NODE_947_length_296_cov_1.088757,1049
+NZ_JAGSPN010000554.1,Undibacterium luofuense strain LFS511W NODE_948_length_296_cov_0.952663,1050
+NZ_JAGSPN010000555.1,Undibacterium luofuense strain LFS511W NODE_949_length_296_cov_0.881657,1051
+NZ_JAGSPN010000556.1,Undibacterium luofuense strain LFS511W NODE_950_length_295_cov_1.505952,1052
+NZ_JAGSPN010000557.1,Undibacterium luofuense strain LFS511W NODE_953_length_295_cov_1.095238,1053
+NZ_JAGSPN010000558.1,Undibacterium luofuense strain LFS511W NODE_954_length_295_cov_1.095238,1054
+NZ_JAGSPN010000559.1,Undibacterium luofuense strain LFS511W NODE_955_length_295_cov_0.958333,1055
+NZ_JAGSPN010000560.1,Undibacterium luofuense strain LFS511W NODE_957_length_295_cov_0.958333,1056
+NZ_JAGSPN010000561.1,Undibacterium luofuense strain LFS511W NODE_958_length_295_cov_0.821429,1057
+NZ_JAGSPN010000038.1,Undibacterium luofuense strain LFS511W NODE_95_length_975_cov_0.840802,1058
+NZ_JAGSPN010000562.1,Undibacterium luofuense strain LFS511W NODE_960_length_294_cov_1.347305,1059
+NZ_JAGSPN010000563.1,Undibacterium luofuense strain LFS511W NODE_961_length_294_cov_1.101796,1060
+NZ_JAGSPN010000564.1,Undibacterium luofuense strain LFS511W NODE_962_length_294_cov_1.101796,1061
+NZ_JAGSPN010000565.1,Undibacterium luofuense strain LFS511W NODE_965_length_294_cov_1.065868,1062
+NZ_JAGSPN010000566.1,Undibacterium luofuense strain LFS511W NODE_968_length_294_cov_0.964072,1063
+NZ_JAGSPN010000567.1,Undibacterium luofuense strain LFS511W NODE_969_length_294_cov_0.964072,1064
+NZ_JAGSPN010000039.1,Undibacterium luofuense strain LFS511W NODE_96_length_956_cov_0.851628,1065
+NZ_JAGSPN010000568.1,Undibacterium luofuense strain LFS511W NODE_970_length_294_cov_0.826347,1066
+NZ_JAGSPN010000569.1,Undibacterium luofuense strain LFS511W NODE_971_length_293_cov_1.246988,1067
+NZ_JAGSPN010000570.1,Undibacterium luofuense strain LFS511W NODE_978_length_292_cov_1.393939,1068
+NZ_JAGSPN010000571.1,Undibacterium luofuense strain LFS511W NODE_979_length_292_cov_1.254545,1069
+NZ_JAGSPN010000572.1,Undibacterium luofuense strain LFS511W NODE_980_length_292_cov_1.254545,1070
+NZ_JAGSPN010000573.1,Undibacterium luofuense strain LFS511W NODE_982_length_292_cov_1.115152,1071
+NZ_JAGSPN010000574.1,Undibacterium luofuense strain LFS511W NODE_983_length_292_cov_1.115152,1072
+NZ_JAGSPN010000575.1,Undibacterium luofuense strain LFS511W NODE_984_length_292_cov_1.054545,1073
+NZ_JAGSPN010000576.1,Undibacterium luofuense strain LFS511W NODE_985_length_292_cov_1.042424,1074
+NZ_JAGSPN010000577.1,Undibacterium luofuense strain LFS511W NODE_986_length_292_cov_0.975758,1075
+NZ_JAGSPN010000578.1,Undibacterium luofuense strain LFS511W NODE_987_length_292_cov_0.975758,1076
+NZ_JAGSPN010000579.1,Undibacterium luofuense strain LFS511W NODE_989_length_292_cov_0.854545,1077
+NZ_JAGSPN010000580.1,Undibacterium luofuense strain LFS511W NODE_990_length_292_cov_0.836364,1078
+NZ_JAGSPN010000581.1,Undibacterium luofuense strain LFS511W NODE_991_length_292_cov_0.806061,1079
+NZ_JAGSPN010000582.1,Undibacterium luofuense strain LFS511W NODE_993_length_291_cov_0.981707,1080
+NZ_JAGSPN010000583.1,Undibacterium luofuense strain LFS511W NODE_994_length_291_cov_0.841463,1081
+NZ_JAGSPN010000584.1,Undibacterium luofuense strain LFS511W NODE_996_length_290_cov_1.233129,1082
+NZ_JAGSPN010000585.1,Undibacterium luofuense strain LFS511W NODE_997_length_290_cov_1.233129,1083
+NZ_JAGSPN010000586.1,Undibacterium luofuense strain LFS511W NODE_999_length_290_cov_0.987730,1084
+NZ_JAGSPN010000009.1,Undibacterium luofuense strain LFS511W NODE_9_length_193149_cov_37.883003,1085
+NZ_CQAZ01000001.1,Yersinia pekkanenii strain A125KOH2,1086
+NZ_CQAZ01000002.1,Yersinia pekkanenii strain A125KOH2,1087
+NZ_CQAZ01000003.1,Yersinia pekkanenii strain A125KOH2,1088
+NZ_CQAZ01000004.1,Yersinia pekkanenii strain A125KOH2,1089
+NZ_CQAZ01000005.1,Yersinia pekkanenii strain A125KOH2,1090
+NZ_CQAZ01000006.1,Yersinia pekkanenii strain A125KOH2,1091
+NZ_CQAZ01000007.1,Yersinia pekkanenii strain A125KOH2,1092
+NZ_CQAZ01000008.1,Yersinia pekkanenii strain A125KOH2,1093
+NZ_CQAZ01000009.1,Yersinia pekkanenii strain A125KOH2,1094
+NZ_CQAZ01000010.1,Yersinia pekkanenii strain A125KOH2,1095
+NZ_CQAZ01000011.1,Yersinia pekkanenii strain A125KOH2,1096
+NZ_CQAZ01000012.1,Yersinia pekkanenii strain A125KOH2,1097
+NZ_CQAZ01000013.1,Yersinia pekkanenii strain A125KOH2,1098
+NZ_CQAZ01000014.1,Yersinia pekkanenii strain A125KOH2,1099
+NZ_CQAZ01000015.1,Yersinia pekkanenii strain A125KOH2,1100
+NZ_CQAZ01000016.1,Yersinia pekkanenii strain A125KOH2,1101
+NZ_CQAZ01000017.1,Yersinia pekkanenii strain A125KOH2,1102
+NZ_CQAZ01000018.1,Yersinia pekkanenii strain A125KOH2,1103
+NZ_CQAZ01000019.1,Yersinia pekkanenii strain A125KOH2,1104
+NZ_CQAZ01000020.1,Yersinia pekkanenii strain A125KOH2,1105
+NZ_CQAZ01000021.1,Yersinia pekkanenii strain A125KOH2,1106
+NZ_CQAZ01000022.1,Yersinia pekkanenii strain A125KOH2,1107
+NZ_CQAZ01000023.1,Yersinia pekkanenii strain A125KOH2,1108
+NZ_CQAZ01000024.1,Yersinia pekkanenii strain A125KOH2,1109
+NZ_CQAZ01000025.1,Yersinia pekkanenii strain A125KOH2,1110
+NZ_CQAZ01000026.1,Yersinia pekkanenii strain A125KOH2,1111
+NZ_CQAZ01000027.1,Yersinia pekkanenii strain A125KOH2,1112
+NZ_CQAZ01000028.1,Yersinia pekkanenii strain A125KOH2,1113
+NZ_CQAZ01000029.1,Yersinia pekkanenii strain A125KOH2,1114
+NZ_CQAZ01000030.1,Yersinia pekkanenii strain A125KOH2,1115
+NZ_CQAZ01000031.1,Yersinia pekkanenii strain A125KOH2,1116
+NZ_CQAZ01000032.1,Yersinia pekkanenii strain A125KOH2,1117
+NZ_CQAZ01000033.1,Yersinia pekkanenii strain A125KOH2,1118
+NZ_CQAZ01000034.1,Yersinia pekkanenii strain A125KOH2,1119
+NZ_CQAZ01000035.1,Yersinia pekkanenii strain A125KOH2,1120
+NZ_CQAZ01000036.1,Yersinia pekkanenii strain A125KOH2,1121
+NZ_CQAZ01000037.1,Yersinia pekkanenii strain A125KOH2,1122
+NZ_CQAZ01000038.1,Yersinia pekkanenii strain A125KOH2,1123
+NZ_CQAZ01000039.1,Yersinia pekkanenii strain A125KOH2,1124
+NZ_CQAZ01000040.1,Yersinia pekkanenii strain A125KOH2,1125
+NZ_CQAZ01000041.1,Yersinia pekkanenii strain A125KOH2,1126
+NZ_CQAZ01000042.1,Yersinia pekkanenii strain A125KOH2,1127
+NZ_CQAZ01000043.1,Yersinia pekkanenii strain A125KOH2,1128
+NZ_CQAZ01000044.1,Yersinia pekkanenii strain A125KOH2,1129
+NZ_CQAZ01000045.1,Yersinia pekkanenii strain A125KOH2,1130
+NZ_CQAZ01000046.1,Yersinia pekkanenii strain A125KOH2,1131
+NZ_CQAZ01000047.1,Yersinia pekkanenii strain A125KOH2,1132
+NZ_CQAZ01000048.1,Yersinia pekkanenii strain A125KOH2,1133
+NZ_CQAZ01000049.1,Yersinia pekkanenii strain A125KOH2,1134
+NZ_CQAZ01000050.1,Yersinia pekkanenii strain A125KOH2,1135
+NZ_CQAZ01000051.1,Yersinia pekkanenii strain A125KOH2,1136
+NZ_CQAZ01000052.1,Yersinia pekkanenii strain A125KOH2,1137
+NZ_CQAZ01000053.1,Yersinia pekkanenii strain A125KOH2,1138
+NZ_CQAZ01000054.1,Yersinia pekkanenii strain A125KOH2,1139
+NZ_CQAZ01000055.1,Yersinia pekkanenii strain A125KOH2,1140
+NZ_CQAZ01000056.1,Yersinia pekkanenii strain A125KOH2,1141
+NZ_CQAZ01000057.1,Yersinia pekkanenii strain A125KOH2,1142
+NZ_CQAZ01000058.1,Yersinia pekkanenii strain A125KOH2,1143
+NZ_CQAZ01000059.1,Yersinia pekkanenii strain A125KOH2,1144
+NZ_CQAZ01000060.1,Yersinia pekkanenii strain A125KOH2,1145
+NZ_CQAZ01000061.1,Yersinia pekkanenii strain A125KOH2,1146
+NZ_CQAZ01000062.1,Yersinia pekkanenii strain A125KOH2,1147
+NZ_CQAZ01000063.1,Yersinia pekkanenii strain A125KOH2,1148
+NZ_CQAZ01000064.1,Yersinia pekkanenii strain A125KOH2,1149
+NZ_CQAZ01000065.1,Yersinia pekkanenii strain A125KOH2,1150
+NZ_CQAZ01000066.1,Yersinia pekkanenii strain A125KOH2,1151
+NZ_CQAZ01000067.1,Yersinia pekkanenii strain A125KOH2,1152
+NZ_CQAZ01000068.1,Yersinia pekkanenii strain A125KOH2,1153
+NZ_CQAZ01000069.1,Yersinia pekkanenii strain A125KOH2,1154
+NZ_CQAZ01000070.1,Yersinia pekkanenii strain A125KOH2,1155
+NZ_CQAZ01000071.1,Yersinia pekkanenii strain A125KOH2,1156
+NZ_CQAZ01000072.1,Yersinia pekkanenii strain A125KOH2,1157
+NZ_CQAZ01000073.1,Yersinia pekkanenii strain A125KOH2,1158
+NZ_CQAZ01000074.1,Yersinia pekkanenii strain A125KOH2,1159
+NZ_CQAZ01000075.1,Yersinia pekkanenii strain A125KOH2,1160
+NZ_CQAZ01000076.1,Yersinia pekkanenii strain A125KOH2,1161
+NZ_CQAZ01000077.1,Yersinia pekkanenii strain A125KOH2,1162
+NZ_CQAZ01000078.1,Yersinia pekkanenii strain A125KOH2,1163
+NZ_CQAZ01000079.1,Yersinia pekkanenii strain A125KOH2,1164
+NZ_CQAZ01000080.1,Yersinia pekkanenii strain A125KOH2,1165
+NZ_CQAZ01000081.1,Yersinia pekkanenii strain A125KOH2,1166
+NZ_CQAZ01000082.1,Yersinia pekkanenii strain A125KOH2,1167
+NZ_CQAZ01000083.1,Yersinia pekkanenii strain A125KOH2,1168
+NZ_CQAZ01000084.1,Yersinia pekkanenii strain A125KOH2,1169
+NZ_CQAZ01000085.1,Yersinia pekkanenii strain A125KOH2,1170
+NZ_CQAZ01000086.1,Yersinia pekkanenii strain A125KOH2,1171
+NZ_CQAZ01000087.1,Yersinia pekkanenii strain A125KOH2,1172
+NZ_CQAZ01000088.1,Yersinia pekkanenii strain A125KOH2,1173
+NZ_CQAZ01000089.1,Yersinia pekkanenii strain A125KOH2,1174
+NZ_CQAZ01000090.1,Yersinia pekkanenii strain A125KOH2,1175
+NZ_CQAZ01000091.1,Yersinia pekkanenii strain A125KOH2,1176
+NZ_CQAZ01000092.1,Yersinia pekkanenii strain A125KOH2,1177
+NZ_CQAZ01000093.1,Yersinia pekkanenii strain A125KOH2,1178
+NZ_CQAZ01000094.1,Yersinia pekkanenii strain A125KOH2,1179
+NZ_CQAZ01000095.1,Yersinia pekkanenii strain A125KOH2,1180
+NZ_CQAZ01000096.1,Yersinia pekkanenii strain A125KOH2,1181
+NZ_CQAZ01000097.1,Yersinia pekkanenii strain A125KOH2,1182
+NZ_CQAZ01000098.1,Yersinia pekkanenii strain A125KOH2,1183
+NZ_CQAZ01000099.1,Yersinia pekkanenii strain A125KOH2,1184
+NZ_CQAZ01000100.1,Yersinia pekkanenii strain A125KOH2,1185
+NZ_CQAZ01000101.1,Yersinia pekkanenii strain A125KOH2,1186
+NZ_CQAZ01000102.1,Yersinia pekkanenii strain A125KOH2,1187
+NZ_CQAZ01000103.1,Yersinia pekkanenii strain A125KOH2,1188
+NZ_CQAZ01000104.1,Yersinia pekkanenii strain A125KOH2,1189
+NZ_CQAZ01000105.1,Yersinia pekkanenii strain A125KOH2,1190
+NZ_CQAZ01000106.1,Yersinia pekkanenii strain A125KOH2,1191
+NZ_CQAZ01000107.1,Yersinia pekkanenii strain A125KOH2,1192
+NZ_CQAZ01000108.1,Yersinia pekkanenii strain A125KOH2,1193
+NZ_CQAZ01000109.1,Yersinia pekkanenii strain A125KOH2,1194
+NZ_CQAZ01000110.1,Yersinia pekkanenii strain A125KOH2,1195
+NZ_CQAZ01000111.1,Yersinia pekkanenii strain A125KOH2,1196
+NZ_CQAZ01000112.1,Yersinia pekkanenii strain A125KOH2,1197
+NZ_CQAZ01000113.1,Yersinia pekkanenii strain A125KOH2,1198
+NZ_CQAZ01000114.1,Yersinia pekkanenii strain A125KOH2,1199
+NZ_CQAZ01000115.1,Yersinia pekkanenii strain A125KOH2,1200
+NZ_CQAZ01000116.1,Yersinia pekkanenii strain A125KOH2,1201
+NZ_CQAZ01000117.1,Yersinia pekkanenii strain A125KOH2,1202
+NZ_CQAZ01000118.1,Yersinia pekkanenii strain A125KOH2,1203
+NZ_CQAZ01000119.1,Yersinia pekkanenii strain A125KOH2,1204
+NZ_CQAZ01000120.1,Yersinia pekkanenii strain A125KOH2,1205
+NZ_CQAZ01000121.1,Yersinia pekkanenii strain A125KOH2,1206
+NZ_CQAZ01000122.1,Yersinia pekkanenii strain A125KOH2,1207
+NZ_CQAZ01000123.1,Yersinia pekkanenii strain A125KOH2,1208
+NZ_CQAZ01000124.1,Yersinia pekkanenii strain A125KOH2,1209
+NZ_CQAZ01000125.1,Yersinia pekkanenii strain A125KOH2,1210
+NZ_CQAZ01000126.1,Yersinia pekkanenii strain A125KOH2,1211
+NZ_CQAZ01000127.1,Yersinia pekkanenii strain A125KOH2,1212
+NZ_CQAZ01000128.1,Yersinia pekkanenii strain A125KOH2,1213
+NZ_CQAZ01000129.1,Yersinia pekkanenii strain A125KOH2,1214
+NZ_CQAZ01000130.1,Yersinia pekkanenii strain A125KOH2,1215
+NZ_CQAZ01000131.1,Yersinia pekkanenii strain A125KOH2,1216
+NZ_CQAZ01000132.1,Yersinia pekkanenii strain A125KOH2,1217
+NZ_CQAZ01000133.1,Yersinia pekkanenii strain A125KOH2,1218
+NZ_CQAZ01000134.1,Yersinia pekkanenii strain A125KOH2,1219
+NZ_CQAZ01000135.1,Yersinia pekkanenii strain A125KOH2,1220
+NZ_CQAZ01000136.1,Yersinia pekkanenii strain A125KOH2,1221
+NZ_CQAZ01000137.1,Yersinia pekkanenii strain A125KOH2,1222
+NZ_CQAZ01000138.1,Yersinia pekkanenii strain A125KOH2,1223
+NZ_CQAZ01000139.1,Yersinia pekkanenii strain A125KOH2,1224
+NZ_CQAZ01000140.1,Yersinia pekkanenii strain A125KOH2,1225
+NZ_CQAZ01000141.1,Yersinia pekkanenii strain A125KOH2,1226
+NZ_CQAZ01000142.1,Yersinia pekkanenii strain A125KOH2,1227
+NZ_CQAZ01000143.1,Yersinia pekkanenii strain A125KOH2,1228
+NZ_CQAZ01000144.1,Yersinia pekkanenii strain A125KOH2,1229
+NZ_CQAZ01000145.1,Yersinia pekkanenii strain A125KOH2,1230
+NZ_CQAZ01000146.1,Yersinia pekkanenii strain A125KOH2,1231
+NZ_CQAZ01000147.1,Yersinia pekkanenii strain A125KOH2,1232
+NZ_CQAZ01000148.1,Yersinia pekkanenii strain A125KOH2,1233
+NZ_CQAZ01000149.1,Yersinia pekkanenii strain A125KOH2,1234
+NZ_CQAZ01000150.1,Yersinia pekkanenii strain A125KOH2,1235
+NZ_CQAZ01000151.1,Yersinia pekkanenii strain A125KOH2,1236
+NZ_CQAZ01000152.1,Yersinia pekkanenii strain A125KOH2,1237
+NZ_CQAZ01000153.1,Yersinia pekkanenii strain A125KOH2,1238
+NZ_CQAZ01000154.1,Yersinia pekkanenii strain A125KOH2,1239
+NZ_CQAZ01000155.1,Yersinia pekkanenii strain A125KOH2,1240
+NZ_CQAZ01000156.1,Yersinia pekkanenii strain A125KOH2,1241
+NZ_CQAZ01000157.1,Yersinia pekkanenii strain A125KOH2,1242
+NZ_CQAZ01000158.1,Yersinia pekkanenii strain A125KOH2,1243
+NZ_CQAZ01000159.1,Yersinia pekkanenii strain A125KOH2,1244
+NZ_CQAZ01000160.1,Yersinia pekkanenii strain A125KOH2,1245
+NZ_CQAZ01000161.1,Yersinia pekkanenii strain A125KOH2,1246
+NZ_CQAZ01000162.1,Yersinia pekkanenii strain A125KOH2,1247
+NZ_CQAZ01000163.1,Yersinia pekkanenii strain A125KOH2,1248
+NZ_CQAZ01000164.1,Yersinia pekkanenii strain A125KOH2,1249
+NZ_CQAZ01000165.1,Yersinia pekkanenii strain A125KOH2,1250
+NZ_CQAZ01000166.1,Yersinia pekkanenii strain A125KOH2,1251
+NZ_CQAZ01000167.1,Yersinia pekkanenii strain A125KOH2,1252
+NZ_CQAZ01000168.1,Yersinia pekkanenii strain A125KOH2,1253
+NZ_CQAZ01000169.1,Yersinia pekkanenii strain A125KOH2,1254
+NZ_CQAZ01000170.1,Yersinia pekkanenii strain A125KOH2,1255
+NZ_CQAZ01000171.1,Yersinia pekkanenii strain A125KOH2,1256
+NZ_CQAZ01000172.1,Yersinia pekkanenii strain A125KOH2,1257
+NZ_CQAZ01000173.1,Yersinia pekkanenii strain A125KOH2,1258
+NZ_CQAZ01000174.1,Yersinia pekkanenii strain A125KOH2,1259
+NZ_CQAZ01000175.1,Yersinia pekkanenii strain A125KOH2,1260
+NZ_CQAZ01000176.1,Yersinia pekkanenii strain A125KOH2,1261
+NZ_CQAZ01000177.1,Yersinia pekkanenii strain A125KOH2,1262
+NZ_CQAZ01000178.1,Yersinia pekkanenii strain A125KOH2,1263
+NZ_CQAZ01000179.1,Yersinia pekkanenii strain A125KOH2,1264
+NZ_CQAZ01000180.1,Yersinia pekkanenii strain A125KOH2,1265
+NZ_CQAZ01000181.1,Yersinia pekkanenii strain A125KOH2,1266
+NZ_CQAZ01000182.1,Yersinia pekkanenii strain A125KOH2,1267
+NZ_CQAZ01000183.1,Yersinia pekkanenii strain A125KOH2,1268
+NZ_CQAZ01000184.1,Yersinia pekkanenii strain A125KOH2,1269
+NZ_CQAZ01000185.1,Yersinia pekkanenii strain A125KOH2,1270
+NZ_CQAZ01000186.1,Yersinia pekkanenii strain A125KOH2,1271
+NZ_CQAZ01000187.1,Yersinia pekkanenii strain A125KOH2,1272
+NZ_CQAZ01000188.1,Yersinia pekkanenii strain A125KOH2,1273
+NZ_CQAZ01000189.1,Yersinia pekkanenii strain A125KOH2,1274
+NZ_CQAZ01000190.1,Yersinia pekkanenii strain A125KOH2,1275
+NZ_CQAZ01000191.1,Yersinia pekkanenii strain A125KOH2,1276
+NZ_CQAZ01000192.1,Yersinia pekkanenii strain A125KOH2,1277
+NZ_CQAZ01000193.1,Yersinia pekkanenii strain A125KOH2,1278
+NZ_CQAZ01000194.1,Yersinia pekkanenii strain A125KOH2,1279
+NZ_CQAZ01000195.1,Yersinia pekkanenii strain A125KOH2,1280
+NZ_CQAZ01000196.1,Yersinia pekkanenii strain A125KOH2,1281
+NZ_CQAZ01000197.1,Yersinia pekkanenii strain A125KOH2,1282
+NZ_CQAZ01000198.1,Yersinia pekkanenii strain A125KOH2,1283
+NZ_CQAZ01000199.1,Yersinia pekkanenii strain A125KOH2,1284
+NZ_CQAZ01000200.1,Yersinia pekkanenii strain A125KOH2,1285
+NZ_CQAZ01000201.1,Yersinia pekkanenii strain A125KOH2,1286
+NZ_CQAZ01000202.1,Yersinia pekkanenii strain A125KOH2,1287
+NZ_CQAZ01000203.1,Yersinia pekkanenii strain A125KOH2,1288
+NZ_CQAZ01000204.1,Yersinia pekkanenii strain A125KOH2,1289
+NZ_CQAZ01000205.1,Yersinia pekkanenii strain A125KOH2,1290
+NZ_CQAZ01000206.1,Yersinia pekkanenii strain A125KOH2,1291
+NZ_CQAZ01000207.1,Yersinia pekkanenii strain A125KOH2,1292
+NZ_CQAZ01000208.1,Yersinia pekkanenii strain A125KOH2,1293
+NZ_CQAZ01000209.1,Yersinia pekkanenii strain A125KOH2,1294
+NZ_CQAZ01000210.1,Yersinia pekkanenii strain A125KOH2,1295
+NZ_CQAZ01000211.1,Yersinia pekkanenii strain A125KOH2,1296
+NZ_CQAZ01000212.1,Yersinia pekkanenii strain A125KOH2,1297
+NZ_CQAZ01000213.1,Yersinia pekkanenii strain A125KOH2,1298
+NZ_CQAZ01000214.1,Yersinia pekkanenii strain A125KOH2,1299
+NZ_CQAZ01000215.1,Yersinia pekkanenii strain A125KOH2,1300
+NZ_CQAZ01000216.1,Yersinia pekkanenii strain A125KOH2,1301
+NZ_CQAZ01000217.1,Yersinia pekkanenii strain A125KOH2,1302
+NZ_CQAZ01000218.1,Yersinia pekkanenii strain A125KOH2,1303
+NZ_CQAZ01000219.1,Yersinia pekkanenii strain A125KOH2,1304
+NZ_CQAZ01000220.1,Yersinia pekkanenii strain A125KOH2,1305
+NZ_CQAZ01000221.1,Yersinia pekkanenii strain A125KOH2,1306
+NZ_CQAZ01000222.1,Yersinia pekkanenii strain A125KOH2,1307
+NZ_CQAZ01000223.1,Yersinia pekkanenii strain A125KOH2,1308
+NZ_CQAZ01000224.1,Yersinia pekkanenii strain A125KOH2,1309
+NZ_CQAZ01000225.1,Yersinia pekkanenii strain A125KOH2,1310
+NZ_CQAZ01000226.1,Yersinia pekkanenii strain A125KOH2,1311
+NZ_CQAZ01000227.1,Yersinia pekkanenii strain A125KOH2,1312
+NZ_CQAZ01000228.1,Yersinia pekkanenii strain A125KOH2,1313
+NZ_CQAZ01000229.1,Yersinia pekkanenii strain A125KOH2,1314
+NZ_CQAZ01000230.1,Yersinia pekkanenii strain A125KOH2,1315
+NZ_CQAZ01000231.1,Yersinia pekkanenii strain A125KOH2,1316
+NZ_CQAZ01000232.1,Yersinia pekkanenii strain A125KOH2,1317
+NZ_CQAZ01000233.1,Yersinia pekkanenii strain A125KOH2,1318
+NZ_CQAZ01000234.1,Yersinia pekkanenii strain A125KOH2,1319
+NZ_AP022547.1,Klebsiella michiganensis strain THO-011 chromosome,1320
+NZ_AP022548.1,Klebsiella michiganensis strain THO-011 plasmid pTHO-011-1,1321
+NZ_CQAW01000001.1,Yersinia thracica strain IP6945,1322
+NZ_CQAW01000002.1,Yersinia thracica strain IP6945,1323
+NZ_CQAW01000003.1,Yersinia thracica strain IP6945,1324
+NZ_CQAW01000004.1,Yersinia thracica strain IP6945,1325
+NZ_CQAW01000005.1,Yersinia thracica strain IP6945,1326
+NZ_CQAW01000006.1,Yersinia thracica strain IP6945,1327
+NZ_CQAW01000007.1,Yersinia thracica strain IP6945,1328
+NZ_CQAW01000008.1,Yersinia thracica strain IP6945,1329
+NZ_CQAW01000009.1,Yersinia thracica strain IP6945,1330
+NZ_CQAW01000010.1,Yersinia thracica strain IP6945,1331
+NZ_CQAW01000011.1,Yersinia thracica strain IP6945,1332
+NZ_CQAW01000012.1,Yersinia thracica strain IP6945,1333
+NZ_CQAW01000013.1,Yersinia thracica strain IP6945,1334
+NZ_CQAW01000014.1,Yersinia thracica strain IP6945,1335
+NZ_CQAW01000015.1,Yersinia thracica strain IP6945,1336
+NZ_CQAW01000016.1,Yersinia thracica strain IP6945,1337
+NZ_CQAW01000017.1,Yersinia thracica strain IP6945,1338
+NZ_CQAW01000018.1,Yersinia thracica strain IP6945,1339
+NZ_CQAW01000019.1,Yersinia thracica strain IP6945,1340
+NZ_CQAW01000020.1,Yersinia thracica strain IP6945,1341
+NZ_CQAW01000021.1,Yersinia thracica strain IP6945,1342
+NZ_CQAW01000022.1,Yersinia thracica strain IP6945,1343
+NZ_CQAW01000023.1,Yersinia thracica strain IP6945,1344
+NZ_CQAW01000024.1,Yersinia thracica strain IP6945,1345
+NZ_CQAW01000025.1,Yersinia thracica strain IP6945,1346
+NZ_CQAW01000026.1,Yersinia thracica strain IP6945,1347
+NZ_CQAW01000027.1,Yersinia thracica strain IP6945,1348
+NZ_CQAW01000028.1,Yersinia thracica strain IP6945,1349
+NZ_CQAW01000029.1,Yersinia thracica strain IP6945,1350
+NZ_CQAW01000030.1,Yersinia thracica strain IP6945,1351
+NZ_CQAW01000031.1,Yersinia thracica strain IP6945,1352
+NZ_CQAW01000032.1,Yersinia thracica strain IP6945,1353
+NZ_CQAW01000033.1,Yersinia thracica strain IP6945,1354
+NZ_CQAW01000034.1,Yersinia thracica strain IP6945,1355
+NZ_CQAW01000035.1,Yersinia thracica strain IP6945,1356
+NZ_CQAW01000036.1,Yersinia thracica strain IP6945,1357
+NZ_CQAW01000037.1,Yersinia thracica strain IP6945,1358
+NZ_CQAW01000038.1,Yersinia thracica strain IP6945,1359
+NZ_CQAW01000039.1,Yersinia thracica strain IP6945,1360
+NZ_CQAW01000040.1,Yersinia thracica strain IP6945,1361
+NZ_CQAW01000041.1,Yersinia thracica strain IP6945,1362
+NZ_CQAW01000042.1,Yersinia thracica strain IP6945,1363
+NZ_CQAW01000043.1,Yersinia thracica strain IP6945,1364
+NZ_CQAW01000044.1,Yersinia thracica strain IP6945,1365
+NZ_CQAW01000045.1,Yersinia thracica strain IP6945,1366
+NZ_CQAW01000046.1,Yersinia thracica strain IP6945,1367
+NZ_CQAW01000047.1,Yersinia thracica strain IP6945,1368
+NZ_CQAW01000048.1,Yersinia thracica strain IP6945,1369
+NZ_CQAW01000049.1,Yersinia thracica strain IP6945,1370
+NZ_CQAW01000050.1,Yersinia thracica strain IP6945,1371
+NZ_CQAW01000051.1,Yersinia thracica strain IP6945,1372
+NZ_CQAW01000052.1,Yersinia thracica strain IP6945,1373
+NZ_CQAW01000053.1,Yersinia thracica strain IP6945,1374
+NZ_CQAW01000054.1,Yersinia thracica strain IP6945,1375
+NZ_CQAW01000055.1,Yersinia thracica strain IP6945,1376
+NZ_CQAW01000056.1,Yersinia thracica strain IP6945,1377
+NZ_KZ987724.1,Paenibacillus aceti strain L14 Scaffold1,1378
+NZ_KZ987725.1,Paenibacillus aceti strain L14 Scaffold2,1379
+NZ_MDDO01000054.1,Paenibacillus aceti strain L14 Scaffold4_1,1380
+NZ_MDDO01000055.1,Paenibacillus aceti strain L14 Scaffold5_1,1381
+NZ_KZ987726.1,Paenibacillus aceti strain L14 Scaffold6,1382
+NZ_MDDO01000058.1,Paenibacillus aceti strain L14 Scaffold7_1,1383
+NZ_KZ987727.1,Paenibacillus aceti strain L14 Scaffold8,1384
+NZ_MDDO01000061.1,Paenibacillus aceti strain L14 Scaffold10_1,1385
+NZ_MDDO01000062.1,Paenibacillus aceti strain L14 Scaffold11_1,1386
+NZ_MDDO01000063.1,Paenibacillus aceti strain L14 Scaffold12_1,1387
+NZ_MDDO01000064.1,Paenibacillus aceti strain L14 Scaffold13_1,1388
+NZ_LAWW01000001.1,Pseudomonas fulva strain YAB-1 contig1,1389
+NZ_LAWW01000010.1,Pseudomonas fulva strain YAB-1 contig10,1390
+NZ_LAWW01000011.1,Pseudomonas fulva strain YAB-1 contig11,1391
+NZ_LAWW01000012.1,Pseudomonas fulva strain YAB-1 contig12,1392
+NZ_LAWW01000013.1,Pseudomonas fulva strain YAB-1 contig13,1393
+NZ_LAWW01000014.1,Pseudomonas fulva strain YAB-1 contig14,1394
+NZ_LAWW01000015.1,Pseudomonas fulva strain YAB-1 contig15,1395
+NZ_LAWW01000016.1,Pseudomonas fulva strain YAB-1 contig16,1396
+NZ_LAWW01000017.1,Pseudomonas fulva strain YAB-1 contig17,1397
+NZ_LAWW01000018.1,Pseudomonas fulva strain YAB-1 contig18,1398
+NZ_LAWW01000019.1,Pseudomonas fulva strain YAB-1 contig19,1399
+NZ_LAWW01000002.1,Pseudomonas fulva strain YAB-1 contig2,1400
+NZ_LAWW01000020.1,Pseudomonas fulva strain YAB-1 contig20,1401
+NZ_LAWW01000021.1,Pseudomonas fulva strain YAB-1 contig21,1402
+NZ_LAWW01000022.1,Pseudomonas fulva strain YAB-1 contig22,1403
+NZ_LAWW01000023.1,Pseudomonas fulva strain YAB-1 contig23,1404
+NZ_LAWW01000003.1,Pseudomonas fulva strain YAB-1 contig3,1405
+NZ_LAWW01000004.1,Pseudomonas fulva strain YAB-1 contig4,1406
+NZ_LAWW01000005.1,Pseudomonas fulva strain YAB-1 contig5,1407
+NZ_LAWW01000006.1,Pseudomonas fulva strain YAB-1 contig6,1408
+NZ_LAWW01000007.1,Pseudomonas fulva strain YAB-1 contig7,1409
+NZ_LAWW01000008.1,Pseudomonas fulva strain YAB-1 contig8,1410
+NZ_LAWW01000009.1,Pseudomonas fulva strain YAB-1 contig9,1411
+NZ_JAHKSN010000010.1,Deinococcus aestuarii strain SYSU M49105 NODE_10_length_161213_cov_94.663602,1412
+NZ_JAHKSN010000011.1,Deinococcus aestuarii strain SYSU M49105 NODE_11_length_159377_cov_91.884814,1413
+NZ_JAHKSN010000012.1,Deinococcus aestuarii strain SYSU M49105 NODE_12_length_125690_cov_98.447021,1414
+NZ_JAHKSN010000013.1,Deinococcus aestuarii strain SYSU M49105 NODE_13_length_123143_cov_80.791997,1415
+NZ_JAHKSN010000014.1,Deinococcus aestuarii strain SYSU M49105 NODE_14_length_120254_cov_90.201860,1416
+NZ_JAHKSN010000015.1,Deinococcus aestuarii strain SYSU M49105 NODE_15_length_115315_cov_90.865549,1417
+NZ_JAHKSN010000016.1,Deinococcus aestuarii strain SYSU M49105 NODE_16_length_110621_cov_93.290543,1418
+NZ_JAHKSN010000017.1,Deinococcus aestuarii strain SYSU M49105 NODE_17_length_110102_cov_95.176412,1419
+NZ_JAHKSN010000018.1,Deinococcus aestuarii strain SYSU M49105 NODE_18_length_100268_cov_91.876661,1420
+NZ_JAHKSN010000019.1,Deinococcus aestuarii strain SYSU M49105 NODE_19_length_97249_cov_97.645921,1421
+NZ_JAHKSN010000001.1,Deinococcus aestuarii strain SYSU M49105 NODE_1_length_628715_cov_85.911595,1422
+NZ_JAHKSN010000020.1,Deinococcus aestuarii strain SYSU M49105 NODE_20_length_95027_cov_105.917676,1423
+NZ_JAHKSN010000021.1,Deinococcus aestuarii strain SYSU M49105 NODE_21_length_91519_cov_65.929736,1424
+NZ_JAHKSN010000022.1,Deinococcus aestuarii strain SYSU M49105 NODE_22_length_89399_cov_92.382076,1425
+NZ_JAHKSN010000023.1,Deinococcus aestuarii strain SYSU M49105 NODE_23_length_87329_cov_95.858396,1426
+NZ_JAHKSN010000024.1,Deinococcus aestuarii strain SYSU M49105 NODE_24_length_84830_cov_95.058294,1427
+NZ_JAHKSN010000025.1,Deinococcus aestuarii strain SYSU M49105 NODE_25_length_79277_cov_84.218417,1428
+NZ_JAHKSN010000026.1,Deinococcus aestuarii strain SYSU M49105 NODE_26_length_72734_cov_92.812995,1429
+NZ_JAHKSN010000027.1,Deinococcus aestuarii strain SYSU M49105 NODE_27_length_61149_cov_78.808350,1430
+NZ_JAHKSN010000028.1,Deinococcus aestuarii strain SYSU M49105 NODE_28_length_61017_cov_73.003399,1431
+NZ_JAHKSN010000029.1,Deinococcus aestuarii strain SYSU M49105 NODE_29_length_58869_cov_83.242323,1432
+NZ_JAHKSN010000002.1,Deinococcus aestuarii strain SYSU M49105 NODE_2_length_576803_cov_89.593851,1433
+NZ_JAHKSN010000030.1,Deinococcus aestuarii strain SYSU M49105 NODE_30_length_54696_cov_71.217352,1434
+NZ_JAHKSN010000031.1,Deinococcus aestuarii strain SYSU M49105 NODE_31_length_47989_cov_71.582372,1435
+NZ_JAHKSN010000032.1,Deinococcus aestuarii strain SYSU M49105 NODE_32_length_46941_cov_98.215485,1436
+NZ_JAHKSN010000033.1,Deinococcus aestuarii strain SYSU M49105 NODE_33_length_43122_cov_73.535569,1437
+NZ_JAHKSN010000034.1,Deinococcus aestuarii strain SYSU M49105 NODE_34_length_31314_cov_85.051037,1438
+NZ_JAHKSN010000035.1,Deinococcus aestuarii strain SYSU M49105 NODE_35_length_30016_cov_75.144439,1439
+NZ_JAHKSN010000036.1,Deinococcus aestuarii strain SYSU M49105 NODE_36_length_25138_cov_95.504697,1440
+NZ_JAHKSN010000037.1,Deinococcus aestuarii strain SYSU M49105 NODE_37_length_20243_cov_74.551237,1441
+NZ_JAHKSN010000038.1,Deinococcus aestuarii strain SYSU M49105 NODE_38_length_19347_cov_98.305108,1442
+NZ_JAHKSN010000039.1,Deinococcus aestuarii strain SYSU M49105 NODE_39_length_16399_cov_105.133432,1443
+NZ_JAHKSN010000003.1,Deinococcus aestuarii strain SYSU M49105 NODE_3_length_276355_cov_91.721048,1444
+NZ_JAHKSN010000040.1,Deinococcus aestuarii strain SYSU M49105 NODE_40_length_7757_cov_69.119565,1445
+NZ_JAHKSN010000041.1,Deinococcus aestuarii strain SYSU M49105 NODE_45_length_3986_cov_1.272704,1446
+NZ_JAHKSN010000042.1,Deinococcus aestuarii strain SYSU M49105 NODE_46_length_3834_cov_5.625909,1447
+NZ_JAHKSN010000043.1,Deinococcus aestuarii strain SYSU M49105 NODE_49_length_3440_cov_1.561916,1448
+NZ_JAHKSN010000004.1,Deinococcus aestuarii strain SYSU M49105 NODE_4_length_268146_cov_94.653764,1449
+NZ_JAHKSN010000044.1,Deinococcus aestuarii strain SYSU M49105 NODE_52_length_3207_cov_319.699611,1450
+NZ_JAHKSN010000005.1,Deinococcus aestuarii strain SYSU M49105 NODE_5_length_232251_cov_68.401198,1451
+NZ_JAHKSN010000006.1,Deinococcus aestuarii strain SYSU M49105 NODE_6_length_184598_cov_71.003149,1452
+NZ_JAHKSN010000045.1,Deinococcus aestuarii strain SYSU M49105 NODE_72_length_2486_cov_3.535729,1453
+NZ_JAHKSN010000007.1,Deinococcus aestuarii strain SYSU M49105 NODE_7_length_180898_cov_89.574542,1454
+NZ_JAHKSN010000008.1,Deinococcus aestuarii strain SYSU M49105 NODE_8_length_169155_cov_96.545387,1455
+NZ_JAHKSN010000009.1,Deinococcus aestuarii strain SYSU M49105 NODE_9_length_164117_cov_71.516086,1456
+NZ_CP046570.1,Xanthomonas albilineans strain Xa-FJ1 chromosome,1457
+NZ_CP046571.1,Xanthomonas albilineans strain Xa-FJ1 plasmid pXaFJ1,1458
